@@ -1,0 +1,27 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Aldynes (J) (SGX).pce",
+      "label": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C2126B0|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/1941 - Counter Attack (J) (SGX).pce",
+      "label": "1941 - Counter Attack (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C4588E2|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    }
+  ]
+}

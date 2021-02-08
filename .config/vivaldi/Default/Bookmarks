@@ -1,0 +1,256 @@
+{
+   "checksum": "75acf51f7807f32e424dd7c10d3d6504",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13252376891372066",
+               "guid": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+               "id": "7",
+               "meta_info": {
+                  "Description": "travel, airfare",
+                  "Partner": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-en-gb"
+            }, {
+               "date_added": "13252376891372993",
+               "guid": "3f49e9e8-69b8-4a10-8016-f69c815a0462",
+               "id": "8",
+               "meta_info": {
+                  "Partner": "3f49e9e8-69b8-4a10-8016-f69c815a0462",
+                  "Thumbnail": "/resources/sd_en_GB_theguardian.png"
+               },
+               "name": "The Guardian",
+               "type": "url",
+               "url": "https://www.theguardian.com/"
+            }, {
+               "date_added": "13252376891373014",
+               "guid": "16631f15-ff0c-4fbf-8d85-927585697379",
+               "id": "9",
+               "meta_info": {
+                  "Partner": "16631f15-ff0c-4fbf-8d85-927585697379",
+                  "Thumbnail": "/resources/sd_uk_morrisons.png"
+               },
+               "name": "Morrisons",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/morrisons-gb"
+            }, {
+               "date_added": "13252376891373033",
+               "guid": "a4d0c752-2bf7-470d-85cd-8b2ddd1ec82b",
+               "id": "10",
+               "meta_info": {
+                  "Partner": "a4d0c752-2bf7-470d-85cd-8b2ddd1ec82b",
+                  "Thumbnail": "/resources/sd_youtube.png"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13252376891373049",
+               "guid": "44d32981-5dcf-4a1f-be5b-3c0d03c7a0a1",
+               "id": "11",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "44d32981-5dcf-4a1f-be5b-3c0d03c7a0a1",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-en-gb"
+            }, {
+               "date_added": "13252376891373068",
+               "guid": "0efbb5fb-d366-4a91-95b1-b5690a0cf0ef",
+               "id": "12",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "0efbb5fb-d366-4a91-95b1-b5690a0cf0ef",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpress-en-gb"
+            }, {
+               "date_added": "13252376891373086",
+               "guid": "719c6802-36cf-40c9-b931-f9ab386db081",
+               "id": "13",
+               "meta_info": {
+                  "Partner": "719c6802-36cf-40c9-b931-f9ab386db081",
+                  "Thumbnail": "/resources/sd_airbnb.png"
+               },
+               "name": "Airbnb",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb-gb-bk"
+            }, {
+               "children": [ {
+                  "date_added": "13252376891373107",
+                  "guid": "4384d754-0aa9-467f-9066-a2f6443cde7d",
+                  "id": "15",
+                  "meta_info": {
+                     "Description": "vivaldi",
+                     "Partner": "4384d754-0aa9-467f-9066-a2f6443cde7d",
+                     "Thumbnail": "/resources/sd_vivaldi.png"
+                  },
+                  "name": "Vivaldi Features",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-browser-features-en-gb"
+               }, {
+                  "date_added": "13252376891373128",
+                  "guid": "4e03018e-a197-4b80-9b6e-55caa5028c64",
+                  "id": "16",
+                  "meta_info": {
+                     "Partner": "4e03018e-a197-4b80-9b6e-55caa5028c64",
+                     "Thumbnail": "/resources/sd_vivaldi_community.gif"
+                  },
+                  "name": "Vivaldi Community",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-community-en-gb"
+               }, {
+                  "date_added": "13252376891373149",
+                  "guid": "a4715241-d0fd-4d0f-b2ca-6e4267d644b3",
+                  "id": "17",
+                  "meta_info": {
+                     "Partner": "a4715241-d0fd-4d0f-b2ca-6e4267d644b3",
+                     "Thumbnail": "/resources/sd_webmail.png"
+                  },
+                  "name": "Vivaldi Webmail",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-webmail"
+               }, {
+                  "date_added": "13252376891373166",
+                  "guid": "0abc2e81-fc07-42e5-b4e2-2dd4ce02f92b",
+                  "id": "18",
+                  "meta_info": {
+                     "Partner": "0abc2e81-fc07-42e5-b4e2-2dd4ce02f92b",
+                     "Thumbnail": "/resources/sd_help.png"
+                  },
+                  "name": "Get Started",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-get-started-en-gb"
+               } ],
+               "date_added": "13252376891373102",
+               "date_modified": "13252376891373166",
+               "guid": "04f107b7-203e-49e6-ab97-d6b9e613cc4a",
+               "id": "14",
+               "meta_info": {
+                  "Partner": "04f107b7-203e-49e6-ab97-d6b9e613cc4a"
+               },
+               "name": "Vivaldi",
+               "type": "folder"
+            }, {
+               "date_added": "13252376891373186",
+               "guid": "10415f5d-2e0c-4f08-8e49-23fcd2de0943",
+               "id": "19",
+               "meta_info": {
+                  "Partner": "10415f5d-2e0c-4f08-8e49-23fcd2de0943",
+                  "Thumbnail": "/resources/sd_vivaldi_game.png"
+               },
+               "name": "Vivaldi Game",
+               "type": "url",
+               "url": "vivaldi://game/"
+            } ],
+            "date_added": "13252376891372038",
+            "date_modified": "13252376891373186",
+            "guid": "44641543-f123-438f-bc5c-8da7bb7c6819",
+            "id": "6",
+            "meta_info": {
+               "Partner": "44641543-f123-438f-bc5c-8da7bb7c6819",
+               "Speeddial": "true"
+            },
+            "name": "Speed Dial",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13252376891373206",
+               "guid": "f56c1a38-3e9e-48fc-8d6c-b800f226dbfb",
+               "id": "21",
+               "meta_info": {
+                  "Partner": "f56c1a38-3e9e-48fc-8d6c-b800f226dbfb",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/booking-gb-bk"
+            }, {
+               "date_added": "13252376891373223",
+               "guid": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+               "id": "22",
+               "meta_info": {
+                  "Partner": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ali-gb-bk"
+            }, {
+               "date_added": "13252376891373239",
+               "guid": "4ac3d5a6-bbdd-4b1d-92a1-eaea6df81e84",
+               "id": "23",
+               "meta_info": {
+                  "Partner": "4ac3d5a6-bbdd-4b1d-92a1-eaea6df81e84",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-gb-bk"
+            }, {
+               "date_added": "13252376891373255",
+               "guid": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+               "id": "24",
+               "meta_info": {
+                  "Partner": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-gb-bk"
+            } ],
+            "date_added": "13252376891373201",
+            "date_modified": "13252376891373255",
+            "guid": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba",
+            "id": "20",
+            "meta_info": {
+               "Partner": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba"
+            },
+            "name": "Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13252376890067832",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13252376890067837",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13252376890067838",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13252376890067840",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000040000",
+         "id": "4",
+         "name": "Deleted",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

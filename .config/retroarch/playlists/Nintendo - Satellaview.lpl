@@ -1,0 +1,1091 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Kobo Kenshou Magazine (J).smc",
+      "label": "3-ji no Wide Shou - 5 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9D0148C7|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS 3ji no Wide Shou (J).smc",
+      "label": "3-ji no Wide Shou - 6 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "926ACD7E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Albert Odyssey (J).smc",
+      "label": "Albert Odyssey (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0E89FA41|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Arkanoid - Doh It Again (J).smc",
+      "label": "Arkanoid - Doh It Again (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7E79C43E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Bdash 2 Gatsu Gou (J).smc",
+      "label": "B Dash - 2 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3322B816|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Bdash 3 Gatsu Gou (J).smc",
+      "label": "B Dash - 3 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3494E10F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dragon Quest (J).smc",
+      "label": "",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "267BE42F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO Grand Prix Knight League (J).smc",
+      "label": "BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83034D82|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO Grand Prix Queen League (J).smc",
+      "label": "BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D81B85D7|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO Grand Prix King League (J).smc",
+      "label": "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FCC8355|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO Grand Prix Ace League (J).smc",
+      "label": "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7442AD93|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO Grand Prix 2 (J).smc",
+      "label": "BS F-Zero Grand Prix 2 - Practice (Japan) (12-6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57B1C3ED|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Fire Emblem Akaneia Senki 1 - Palace Kanraku (J).smc",
+      "label": "BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D42EA2E0|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Fire Emblem Akaneia Senki 2 - Akai Ryuuki Shi (J).smc",
+      "label": "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FCAAFE47|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Fire Emblem Akaneia Senki 3 - Seigi no Tozokudan (J).smc",
+      "label": "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3D3EB686|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Fire Emblem Akaneia Senki 4 - Hajimari no Toki (J).smc",
+      "label": "BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5C19C84|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Camp Arnold Course 1 (J).smc",
+      "label": "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B90C767|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Camp Arnold Course 2 (J).smc",
+      "label": "BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5357704|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Camp Arnold Course 3 (J).smc",
+      "label": "BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B87DBAA|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Camp Arnold Course 4 (J).smc",
+      "label": "BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6986937E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Time Athletic Course 1 (J).smc",
+      "label": "BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1639DB9D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Time Athletic Course 2 (J).smc",
+      "label": "BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27D62709|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Time Athletic Course 3 (J).smc",
+      "label": "BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5A88E3FB|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Marvelous Time Athletic Course 4 (J).smc",
+      "label": "BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FBA7789E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nichibutsu Mahjong (J).smc",
+      "label": "BS Nichibutsu Mahjong - Mahjong Taikai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B12AF9A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nichibutsu 4 Player Mahjong 1 (J).smc",
+      "label": "BS Nichibutsu Mahjong - Renshuu Mahjong - Ichimantou (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9CDE21D5|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nichibutsu 4 Player Mahjong 2 (J).smc",
+      "label": "BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C56B108E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nintendo HP 5-17 (J).smc",
+      "label": "BS Nintendo HP - 5-17 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9CA4AB1A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nintendo HP 5-31 (J).smc",
+      "label": "BS Nintendo HP - 5-31 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A95AF89E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Parlor! Parlor! (J).smc",
+      "label": "BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0F38B87|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Shin Onigashima Dai 1 Wanashi (J).smc",
+      "label": "BS Shin Onigashima - Dai-1-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "654EC9B9|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Shin Onigashima Dai 2 Wanashi (J).smc",
+      "label": "BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25317CB6|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Shin Onigashima Dai 3 Wanashi (J).smc",
+      "label": "BS Shin Onigashima - Dai-3-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A612849D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Shin Onigashima Dai 4 Wanashi (J).smc",
+      "label": "BS Shin Onigashima - Dai-4-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FDC1257|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS St.Giga 10 Gatsu Gou (J).smc",
+      "label": "BS St. Giga PG - 10 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3D059CA1|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mario Collection 3 (J).smc",
+      "label": "BS Super Mario Collection - Dai-3-shuu (Japan) (3-17) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81042DAB|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mario USA 1 (J).smc",
+      "label": "BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88FA31CC|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mario USA 2 (J).smc",
+      "label": "BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEDB049D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mario USA 3 (J).smc",
+      "label": "BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0C90A80|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mario USA 4 (J).smc",
+      "label": "BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D05B537C|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Tantei Club - Yuki ni Kieta Kako 1 (J).smc",
+      "label": "BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC3354E8|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Tantei Club - Yuki ni Kieta Kako 3 (J).smc",
+      "label": "",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B5FD446D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Remix (J).smc",
+      "label": "BS Zelda no Densetsu - Dai-3-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F01EEB07|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Kodai no Sekiban Dai 1 Hanashi (J).smc",
+      "label": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D2B95A8|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Kodai no Sekiban Dai 2 Hanashi (J).smc",
+      "label": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B71A609|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Kodai no Sekiban Dai 3 Hanashi (J).smc",
+      "label": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C251D4FA|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Kodai no Sekiban Dai 4 Hanashi (J).smc",
+      "label": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8385BBF4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Cheap de Gorgeous Vol. 1 (J).smc",
+      "label": "Cheap de Gorgeous Vol. 1 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C270687|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Chrono Trigger - Character Library (J).smc",
+      "label": "Chrono Trigger - Character Zukan (Japan)",
+      "core_path": "/usr/lib/libretro/bsnes2014_accuracy_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes 2014 Accuracy)",
+      "crc32": "D584AE5B|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Chrono Trigger - Jet Bike Special (J).smc",
+      "label": "Chrono Trigger - Jet Bike Special (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E150196|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Chrono Trigger - Music Library (J).smc",
+      "label": "Chrono Trigger - Music Library (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F268DC1B|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Columbus no Tamagoyaki 1 (J).smc",
+      "label": "Columbus no Tamagoyaki - Dai-1-kai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "82B975FE|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Columbus no Tamagoyaki 2 (J).smc",
+      "label": "Columbus no Tamagoyaki - Dai-2-kai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE7B50D0|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Columbus no Tamagoyaki 3 (J).smc",
+      "label": "Columbus no Tamagoyaki - Dai-3-kai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E45A26C1|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Cu-On-Pa SFC (J).smc",
+      "label": "Cu-On-Pa BS Ban (Japan) (5-31)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "844EB6F1|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Daibakushou Jinsei Gekijou (J).smc",
+      "label": "Daibakushou Jinsei Gekijou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EB7A3E5|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dan Dan Belt Conveyor Milk no Maki (J).smc",
+      "label": "Dandan Belt Conveyor - Gyuunyuu no Maki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E009DBF8|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dan Dan Belt Conveyor Ukulele no Maki (J) (NG-Dump Known) [h1].smc",
+      "label": "Dandan Belt Conveyor - Ukulele no Maki (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10205B4B|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Busters - Digital Magazine 4-12-98 (J) [h1].smc",
+      "label": "Digital Magazine Busters BS - 4-12 Gou (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1976866A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Busters - Digital Magazine 5-10-98 (J).smc",
+      "label": "Digital Magazine Busters BS - 5-10 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D514BDE6|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Busters - Digital Magazine 5-24-98 (J).smc",
+      "label": "Digital Magazine Busters BS - 5-24 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE658393|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Busters - Digital Magazine 8-23-98 (J).smc",
+      "label": "Digital Magazine Busters BS - 8-23 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8659B56|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Do-Re-Mi No.2 5-10 (J).smc",
+      "label": "Do-Re-Mi de Faa 2~! Vol. 8 - 5-10 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF6BE8F8|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Do-Re-Mi No.2 5-25 (J).smc",
+      "label": "Do-Re-Mi de Faa 2~! Vol. 9 - 5-25 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "985AEC8F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dokapon Gaiden - Honoo no Audition (J).smc",
+      "label": "Dokapon Gaiden - Honoo no Audition (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C436031E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dragon Slayer - Eiyuu Densetsu (J).smc",
+      "label": "Dragon Slayer - Eiyuu Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CACBEB09|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Dynami Tracer (J).smc",
+      "label": "Dynami Tracer (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8C2024A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Excitebike Bun Bun Mario Battle Stadium 1 (J).smc",
+      "label": "Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E6D087C|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Excitebike Bun Bun Mario Battle Stadium 2 (J).smc",
+      "label": "Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (7-6) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF355121|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Excitebike Bun Bun Mario Battle Stadium 3 1-11 (J).smc",
+      "label": "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (01-11) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "32D71227|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Excitebike Bun Bun Mario Battle Stadium 3 2-8 (J).smc",
+      "label": "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (02-08) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3250DD13|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Excitebike Bun Bun Mario Battle Stadium 4 (J).smc",
+      "label": "Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C747FC3B|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS F-ZERO (J).smc",
+      "label": "F-Zero (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "689130B5|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Fenek - June Edition (J).smc",
+      "label": "Fenek - 6 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55045FE6|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 1 (J).smc",
+      "label": "Freud no Chousenjou - Dai-1-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "67532B39|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 2 (J).smc",
+      "label": "Freud no Chousenjou - Dai-2-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EF4BC8C|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 3 (J).smc",
+      "label": "Freud no Chousenjou - Dai-3-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "99D24FB9|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 4 (J).smc",
+      "label": "Freud no Chousenjou - Dai-4-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A663C48|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 5 (J).smc",
+      "label": "Freud no Chousenjou - Dai-5-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D203F875|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Furoito no Chousenjou 6 (J).smc",
+      "label": "Freud no Chousenjou - Dai-6-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF5A6613|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Tora no Maki 5-17 (J).smc",
+      "label": "Game Tora no Taikoban - 5-17 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A93C827E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Tora no Maki 5-31 (J).smc",
+      "label": "Game Tora no Taikoban - 5-31 Gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "70B30EAD|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Gekkan Coin Toss Deck 1 (J) [h1].smc",
+      "label": "Gekkan Coin Toss - Deck 1 (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2D7C3E5|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Golf Daisuki! - Out of Bounds Club (J).smc",
+      "label": "Golf Daisuki! O.B. Club (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB1A2E4D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Goods Press 3gatsu Gou (J).smc",
+      "label": "GoodsPress - 3 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28CB7863|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Goods Press 6gatsu Gou (J).smc",
+      "label": "GoodsPress - 6 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "030C1AD5|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Goods Press 7gatsu Gou (J).smc",
+      "label": "GoodsPress - 7 Gatsugou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16A6C451|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Heisei Gunjin Shougi (J).smc",
+      "label": "Heisei Gunjin Shougi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8B4E75A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Ikari no Yousai (J).smc",
+      "label": "Ikari no Yousai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "721BC7CA|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Kirby no Omochabako - Baseball (J).smc",
+      "label": "Kirby no Omochabako - Baseball (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21CB8FD4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Kodomo Chousadan Mighty Pockets 1 (J).smc",
+      "label": "Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85EBB7CC|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Kodomo Chousadan Mighty Pockets 2 (J).smc",
+      "label": "Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "188C9ACB|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Kodomo Chousadan Mighty Pockets 3 (J).smc",
+      "label": "Kodomo Chousadan Mighty Pockets - Chousa 3 - Kyakusen Queen Patra no Nazo (Japan) (SoundLink) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9910C393|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Koi ha Balance - Battle of Lovers (J).smc",
+      "label": "Koi wa Balance - Tatoeba K-kun no Tabou na Ichinichi Hen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "60293E16|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Let's Pachinko Nante Gindama 1 (J).smc",
+      "label": "Let's Pachinko Nante Gindama 1 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0472ABB6|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Let's Pachinko Nante Gindama 2 (J).smc",
+      "label": "Let's Pachinko Nante Gindama 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D201681|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Let's Pachinko Nante Gindama 3 (J).smc",
+      "label": "Let's Pachinko Nante Gindama 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7EA45DF|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Lord Monarch (J).smc",
+      "label": "Lord Monarch (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D3DEDFCC|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Mario Paint 6-4 (J).smc",
+      "label": "Mario Paint - BS Ban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38830419|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Mario Paint - Yuu Shou Naizou Ban (J).smc",
+      "label": "Mario Paint - Yuushou Naizou Ban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D521D521|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Nintama Rantarou 2 (J).smc",
+      "label": "Nintama Rantarou 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "280E9777|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS NP Magazine 107 (J).smc",
+      "label": "Nintendo Power Magazine 107 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F3ED881C|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Panel de Pon - Event '98 (J).smc",
+      "label": "Panel de Pon - Event '98 (Japan) (1-11)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "725BF3AF|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Pokekame Magajin (J).smc",
+      "label": "Pokekame Magazine (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F2690947|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Radical Dreamers (J).smc",
+      "label": "Radical Dreamers - Nusume Nai Houseki (Japan) (2-24)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "660B8CC4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Same Game Koma Data (J).smc",
+      "label": "Same Game - Chara Cassette (Japan) (ROM)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C3439C2|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Same Game + Tengai Makyou Zero Jikei - Data Pack (J).smc",
+      "label": "Same Game - Chara Data Shuu (Japan) (ROM)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12A80829|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu Kodai no Sekiban Dai 3 Hanashi (J) [b1].smc",
+      "label": "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EA2B6BB|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Satella Walker 2 - Sate Bou wo Sukuidasu! (J).smc",
+      "label": "Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8DD9102|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam G Next - Data Pack 2 (J).smc",
+      "label": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "60B1B7E0|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Shanghai - Banri no Choujou (J).smc",
+      "label": "Shanghai - Banri no Choujou (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD681869|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sousa Sentai Wappers Soushuu Hen (J).smc",
+      "label": "Sousa Sentai Wappers - Extra Mission (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53B843F3|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sousa Sentai Wappers 1 (J).smc",
+      "label": "Sousa Sentai Wappers - Mission 01 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8060F58|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sousa Sentai Wappers 2 (J).smc",
+      "label": "Sousa Sentai Wappers - Mission 02 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "317FFBD7|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Special Tee Shot (J).smc",
+      "label": "Special Tee Shot (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "841C8EB9|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Spriggan Powered (J).smc",
+      "label": "Spriggan Powered BS - Prelude (Japan) (SoundLink)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65B4280A|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Earth Defense Force (J).smc",
+      "label": "Super E.D.F. (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DD53BA4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Famicom Wars (J).smc",
+      "label": "Super Famicom Wars BS Ban - Tsukinowa-jima (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53909DC4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Mahjong Taikai (J).smc",
+      "label": "Super Mahjong Taikai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72BDB71F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Ninja-kun (J).smc",
+      "label": "Super Ninja-kun (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52A63EA3|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Super Tsume Shougi 1000 (J).smc",
+      "label": "Super Tsumeshougi 1000 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF7AAF89|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sutte Hakkun 98 Winter Event Version (J).smc",
+      "label": "Sutte Hakkun - 98 Fuyu Event Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5841C08E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sutte Hakkun 2 10-8 (J).smc",
+      "label": "Sutte Hakkun - BS Version 2 (Japan) (10-8)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA3C8618|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sutte Hakkun 2 6-3 (J) [!].smc",
+      "label": "Sutte Hakkun - BS Version 2 (Japan) (6-3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "086D1239|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Sutte Hakkun (J).smc",
+      "label": "Sutte Hakkun - Event Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8CDD1054|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Treasure Conflix (J).smc",
+      "label": "Treasure Conflix (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F50FB0B7|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Wai Wai Check 3-7 (J).smc",
+      "label": "Waiwai Check 3-7 Gou + Waiwai Check 3-14 Gou (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D8CB824|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Wario no Mori (J).smc",
+      "label": "Wario no Mori - Futatabi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AC096DE4|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Wizardry V - Saika no Chuushin (J).smc",
+      "label": "Wizardry V - Saika no Chuushin (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A04F1544|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Yoshi no Panepon (J).smc",
+      "label": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "214A438E|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Yung Hakase no Shinsatsu Shitsu 1 (J).smc",
+      "label": "Yung Hakase no Shinsatsushitsu - Dai-1-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B52F5C4F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Yung Hakase no Shinsatsu Shitsu 2 (J).smc",
+      "label": "Yung Hakase no Shinsatsushitsu - Dai-2-gou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B897BC7|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zelda no Densetsu - Kamigami no Triforce (J) [!].smc",
+      "label": "Zelda no Densetsu - Kamigami no Triforce (Japan) (5-21)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "32DCB439|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zootto Mahjong! Event Version (J).smc",
+      "label": "Zootto Mahjong! - Event Version (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D2C918D|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/BS Zootto Mahjong! Preview Version (J).smc",
+      "label": "Zootto Mahjong! - Preview Ban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5185292F|crc",
+      "db_name": "Nintendo - Satellaview.lpl"
+    }
+  ]
+}

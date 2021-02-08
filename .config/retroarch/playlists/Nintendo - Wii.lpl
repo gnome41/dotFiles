@@ -1,0 +1,307 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SL2P01.wbfs",
+      "label": "Project Zero 2: Wii Edition (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SF8E01.wbfs",
+      "label": "Donkey Kong Country Returns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SCJP4Q.wbfs",
+      "label": "LEGO Pirates of the Caribbean: The Video Game (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SBDE08.wbfs",
+      "label": "Resident Evil: The Darkside Chronicles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SB4P01.wbfs",
+      "label": "Super Mario Galaxy 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/S7AEWR.wbfs",
+      "label": "LEGO Batman 2: DC Super Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RZDP01.wbfs",
+      "label": "The Legend of Zelda: Twilight Princess (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RWLP01.wbfs",
+      "label": "Wario Land: The Shake Dimension (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RSNP69.wbfs",
+      "label": "The Simpsons Game (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RSFE7U.wbfs",
+      "label": "Muramasa: The Demon Blade (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/ROWE08.wbfs",
+      "label": "Ōkami (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RMLP7U.wbfs",
+      "label": "Metal Slug Anthology (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RMGP01.wbfs",
+      "label": "Super Mario Galaxy (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RMCE01.wbfs",
+      "label": "Mario Kart Wii (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RMAP01.wbfs",
+      "label": "Mario Power Tennis (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SX4E01.wbfs",
+      "label": "Xenoblade Chronicles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SVME01.wbfs",
+      "label": "Super Mario All-Stars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SV4P8P.wbfs",
+      "label": "Virtua Tennis 4 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SUKE01.wbfs",
+      "label": "Kirby's Return to Dream Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SSQP01.wbfs",
+      "label": "Mario Party 9 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SOUP01.wbfs",
+      "label": "The Legend of Zelda: Skyward Sword (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SOJP41.wbfs",
+      "label": "Rayman Origins (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SMNP01.wbfs",
+      "label": "New Super Mario Bros. Wii (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SM3E01.wbfs",
+      "label": "Super Mario Bros. 3+ (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RK5E01.wbfs",
+      "label": "Kirby's Epic Yarn (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RHOP8P.wbfs",
+      "label": "The House of the Dead: Overkill (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RHDP8P.wbfs",
+      "label": "The House of the Dead 2 & 3 Return (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RGLE7D.wbfs",
+      "label": "Geometry Wars: Galaxies (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RDSPAF.wbfs",
+      "label": "Dragon Ball Z: Budokai Tenkaichi 3 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RBUP08.wbfs",
+      "label": "Resident Evil: The Umbrella Chronicles (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/R8PP01.wbfs",
+      "label": "Super Paper Mario (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/R5WEA4.wbfs",
+      "label": "Silent Hill: Shattered Memories (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/R4ZJ01.wbfs",
+      "label": "Zero: Tsukihami no Kamen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/R4QP01.wbfs",
+      "label": "Mario Strikers Charged Football (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/SLREWR.wbfs",
+      "label": "LEGO The Lord of the Rings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/RM8P01.wbfs",
+      "label": "Mario Party 8 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/NintendoWii-GC/Wii/PPNE01.wbfs",
+      "label": "New Super Mario Bros. Wii 2: The Next Levels (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    }
+  ]
+}

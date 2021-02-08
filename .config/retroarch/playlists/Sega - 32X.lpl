@@ -1,0 +1,139 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Virtua Racing Deluxe 32X (U) [!].zip#Virtua Racing Deluxe 32X (U) [!].bin",
+      "label": "Virtua Racing Deluxe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7896B62E|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Star Wars Arcade 32X (E) [!].zip#Star Wars Arcade 32X (E) [!].bin",
+      "label": "Star Wars Arcade (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "82E82660|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Space Harrier 32X (JU) [!].zip#Space Harrier 32X (JU) [!].bin",
+      "label": "Space Harrier (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86E7F989|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Shadow Squadron 32X (E) [!].zip#Shadow Squadron 32X (E) [!].bin",
+      "label": "Shadow Squadron ~ Stellar Assault (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "60C49E4D|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Romance of the Three Kingdoms IV 32X (1) [!].zip#Romance of the Three Kingdoms IV 32X (1) [!].bin",
+      "label": "Sangokushi IV (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4DE7625|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/RBI Baseball 95 32X (4) [!].zip#RBI Baseball 95 32X (4) [!].bin",
+      "label": "RBI Baseball '95 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF795FDC|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Primal Rage 32X (F) [!].zip#Primal Rage 32X (F) [!].bin",
+      "label": "Primal Rage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E78A4D28|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Pitfall 32X (4) [!].zip#Pitfall 32X (4) [!].bin",
+      "label": "Pitfall - The Mayan Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9126F15|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Motocross Championship 32X (E) [!].zip#Motocross Championship 32X (E) [!].bin",
+      "label": "Motocross Championship (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE3364E9|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Knuckles Chaotix 32X (A) [!].zip#Knuckles Chaotix 32X (A) [!].bin",
+      "label": "Knuckles' Chaotix (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41D63572|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Doom 32X (E) [!].zip#Doom 32X (E) [!].bin",
+      "label": "Doom (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53734E3A|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Darxide 32X (A) [!].zip#Darxide 32X (A) [!].bin",
+      "label": "Darxide (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "22D7C906|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/Brutal Unleashed 32X (4) [!].zip#Brutal Unleashed 32X (4) [!].bin",
+      "label": "Brutal - Above the Claw (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A72C939|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/BC Racers 32X (F) [c][!].zip#BC Racers 32X (F) [c][!].bin",
+      "label": "BC Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "936C3D27|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/After Burner 32X (A) [!].zip#After Burner 32X (A) [!].bin",
+      "label": "After Burner Complete (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "029106F5|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sega Mega Drive-32X-CD/36 Great Holes Starring Fred Couples 32X (E) [!].zip#36 Great Holes Starring Fred Couples 32X (E) [!].bin",
+      "label": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EF99202|crc",
+      "db_name": "Sega - 32X.lpl"
+    }
+  ]
+}

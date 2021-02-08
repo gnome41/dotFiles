@@ -1,0 +1,2395 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Yoshi's Story (U) [!].zip#Yoshi's Story (U) [!].v64",
+      "label": "Yoshi's Story (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A1453E0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wipeout 64 (U) [!].zip#Wipeout 64 (U) [!].z64",
+      "label": "Wipeout 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4888D0FE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/SUPER_MARIO_64_(U)_[!] (2).zip#SUPER_MARIO_64_(U)_[!] (2).V64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42C43204|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Quake 64 (U) [!].zip#Quake 64 (U) [!].v64",
+      "label": "Quake (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "06D5CDBB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tony Hawk's Pro Skater 2 (U) [!].zip#Tony Hawk's Pro Skater 2 (U) [!].z64",
+      "label": "Tony Hawk's Pro Skater 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "80AA83F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Super Smash Bros. (U).zip#Super Smash Bros. (U).V64",
+      "label": "Super Smash Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD2DF6D9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Super Mario 64 - Shindou Edition (J) [!].zip#Super Mario 64 - Shindou Edition (J) [!].v64",
+      "label": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC9FF5F2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Star Fox 64 (U) [!].zip#Star Fox 64 (U) [!].z64",
+      "label": "Star Fox 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1FCAA9C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Snowboard Kids (U) [!].zip#Snowboard Kids (U) [!].z64",
+      "label": "Snowboard Kids (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "020FB906|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Sim City 2000 (J) [!].zip#Sim City 2000 (J) [!].v64",
+      "label": "SimCity 2000 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7A96B81|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rayman 2 - The Great Escape (U) (!).zip#Rayman 2 - The Great Escape (U) (!).n64",
+      "label": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02BB4409|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Stadium 2 (U) [!].zip#Pokemon Stadium 2 (U) [!].z64",
+      "label": "Pokemon Stadium 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9998E09|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Stadium (English).zip#Pokemon Stadium (English).v64",
+      "label": "Pokemon Stadium (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72F66F05|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Puzzle League (U) [!].zip#Pokemon Puzzle League (U) [!].z64",
+      "label": "Pokemon Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B9C598F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/PilotWings_64.zip#PilotWings_64.v64",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C445F7E3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Paper Mario (U).zip#Paper Mario (U).v64",
+      "label": "Paper Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A7F5CD7E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Kart 64 (U) [!].zip#Mario Kart 64 (U) [!].z64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "434389C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Legend of Zelda, The - Ocarina of Time (E) (V1.0) [!].zip#Legend of Zelda, The - Ocarina of Time (E) (V1.0) [!].v64",
+      "label": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9852A62F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/New Tetris, The (U) [!].zip#New Tetris, The (U) [!].z64",
+      "label": "New Tetris, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "528A07FA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mortal Kombat Trilogy.zip#Mortal Kombat Trilogy.z64",
+      "label": "Mortal Kombat Trilogy (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC04C62F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Monaco Grand Prix (U) [!].zip#Monaco Grand Prix (U) [!].z64",
+      "label": "Monaco Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2BBEAC1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario_Party_2_(E).zip#Mario_Party_2_(E).n64",
+      "label": "Mario Party 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E58A1955|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Tennis (J) [!].zip#Mario Tennis (J) [!].v64",
+      "label": "Mario Tennis 64 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C665301D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Party (U) [!].zip#Mario Party (U) [!].z64",
+      "label": "Mario Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D60ABE5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Legend of Zelda, The - Majora's Mask (E) (M4) [!].zip#Legend of Zelda, The - Majora's Mask (E) (M4) [!].z64",
+      "label": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EAD1608|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Kirby 64 - The Crystal Shards (U) [!].zip#Kirby 64 - The Crystal Shards (U) [!].v64",
+      "label": "Kirby 64 - The Crystal Shards (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EB3565B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Harvest Moon 64 (U) [!].zip#Harvest Moon 64 (U) [!].z64",
+      "label": "Harvest Moon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DECDC0AD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/GoldenEye 007 (U) [!].zip#GoldenEye 007 (U) [!].z64",
+      "label": "GoldenEye 007 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6330846|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/FIFA 99 (U) [!].zip#FIFA 99 (U) [!].z64",
+      "label": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B2473A9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F-Zero X (U) [!].zip#F-Zero X (U) [!].z64",
+      "label": "F-Zero X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B561FBA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F-1 World Grand Prix II (E) [!].zip#F-1 World Grand Prix II (E) [!].v64",
+      "label": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "484C801D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Excitebike 64 (U) (!).zip#Excitebike 64 (U) (!).n64",
+      "label": "Excitebike 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC459192|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Dr. Mario 64 (U) [!].zip#Dr. Mario 64 (U) [!].v64",
+      "label": "Dr. Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7C44B5B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Doom 64 (U) [!].zip#Doom 64 (U) [!].z64",
+      "label": "Doom 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CC1ADE6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Donkey Kong 64 (J) [!].zip#Donkey Kong 64 (J) [!].v64",
+      "label": "Donkey Kong 64 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "919F7E74|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Diddy Kong Racing (U) (V1.1) [!].zip#Diddy Kong Racing (U) (V1.1) [!].v64",
+      "label": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5ACCA298|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Cruis'n World (U) (!).zip#Cruis'n World (U) (!).v64",
+      "label": "Cruis'n World (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41877D7D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Conker's Bad Fur Day (U) [!].zip#Conker's Bad Fur Day (U) [!].v64",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE8CC172|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Command and Conquer 3D (U) (!).zip#Command and Conquer 3D (U) (!).n64",
+      "label": "Command & Conquer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E9069EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bomberman 64 (U) [!].zip#Bomberman 64 (U) [!].z64",
+      "label": "Bomberman 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3ED0E0DC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Banjo-Tooie (U) [!].zip#Banjo-Tooie (U) [!].v64",
+      "label": "Banjo-Tooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0E0DC5A5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Banjo-Kazooie (U) (!).zip#Banjo-Kazooie (U) (!).v64",
+      "label": "Banjo-Kazooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD429961|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/1080 Snowboarding (JU) [!].zip#1080 Snowboarding (JU) [!].z64",
+      "label": "1080 Snowboarding (Japan, USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08FE81C7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Yoshi's Story (U) [!].z64",
+      "label": "Yoshi's Story (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A1453E0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Xena Warrior Princess - Talisman of Fate (U) [!].z64",
+      "label": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7DA93999|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/WWF No Mercy (U) [!].v64",
+      "label": "WWF No Mercy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE8C16C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Worms - Armageddon (U) [!].v64",
+      "label": "Worms Armageddon (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5471AE3B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/World is Not Enough, The (U) [!].v64",
+      "label": "007 - The World Is Not Enough (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34F0EE5B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/World Driver Championship (U) [!].v64",
+      "label": "World Driver Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCD9D2D2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wetrix (U) [!].v64",
+      "label": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EDA94C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/WCW-nWo Revenge (U) [!].v64",
+      "label": "WCW-nWo Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2257FD02|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wayne Gretzky's 3D Hockey (U) [!].z64",
+      "label": "Wayne Gretzky's 3D Hockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9781F88D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wave Race 64 (U) (V1.1) [!].z64",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "394948C4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wave Race 64 (U) (V1.1) [!].v64",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD2BB7B6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Wipeout 64 (U) [!].v64",
+      "label": "Wipeout 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E8CCE96|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/War Gods (U) [!].z64",
+      "label": "War Gods (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFACF993|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Turok 3 - Shadow of Oblivion (U) [!].v64",
+      "label": "Turok 3 - Shadow of Oblivion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E0D0D902|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Toy Story 2 (U) [!].z64",
+      "label": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9570841|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tony Hawk's Pro Skater (U) [!].v64",
+      "label": "Tony Hawk's Pro Skater (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE2C9008|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Super Bowling 64 (U) [!].z64",
+      "label": "Super Bowling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6CCD04A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Star Wars - Rogue Squadron (U) [!].v64",
+      "label": "Star Wars - Rogue Squadron (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D6FA165|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/South Park (U) [!].z64",
+      "label": "South Park (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D666B9E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Shadow Man (U) [!].v64",
+      "label": "Shadow Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47E05128|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rugrats - Treasure Hunt (E) [!].v64",
+      "label": "Rugrats - Treasure Hunt (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65EDE901|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Road Rash 64 (U) [!].v64",
+      "label": "Road Rash 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "600B3988|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rat Attack (U) [!].z64",
+      "label": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2315FEA7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Power Rangers - Lightspeed Rescue (U) [!].z64",
+      "label": "Power Rangers - Lightspeed Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5033311|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pilotwings 64 (U) [!].z64",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "728807E7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Vigilante 8 - 2nd Offense (U) [!].v64",
+      "label": "Vigilante 8 - 2nd Offense (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "764ABDB3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Vigilante 8 (U) [!].v64",
+      "label": "Vigilante 8 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B445EDCD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/V-Rally Edition 99 (U) [!].z64",
+      "label": "V-Rally Edition 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4803075E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Twisted Edge Extreme Snowboarding (U) [!].z64",
+      "label": "Twisted Edge - Extreme Snowboarding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BFBCC038|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Turok 2 - Seeds of Evil (U) [!].v64",
+      "label": "Turok 2 - Seeds of Evil (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE3527AE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Turok - Rage Wars (U) [!].v64",
+      "label": "Turok - Rage Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "416474D8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Turok - Dinosaur Hunter (U) (V1.2) [!].v64",
+      "label": "Turok - Dinosaur Hunter (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF6EA1B8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Triple Play 2000 (U) [!].z64",
+      "label": "Triple Play 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "785DD0F8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Top Gear Rally 2 (U) [!].z64",
+      "label": "Top Gear Rally 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "914CF9C4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Top Gear Overdrive (U) [!].z64",
+      "label": "Top Gear Overdrive (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F3E0FF21|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Top Gear Hyper-Bike (U) [!].z64",
+      "label": "Top Gear Hyper-Bike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EEBC26A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tony Hawk's Pro Skater 3 (U).v64",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED73272E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tony Hawk's Pro Skater 2 (U) [!].v64",
+      "label": "Tony Hawk's Pro Skater 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6DF2D58E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tom Clancy's Rainbow Six (U) [!].v64",
+      "label": "Tom Clancy's Rainbow Six (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "67F3D120|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tom and Jerry in Fists of Furry (U) [!].z64",
+      "label": "Tom and Jerry in Fists of Furry (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D685B83|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/The New Tetris (U) (!).n64",
+      "label": "New Tetris, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "528A07FA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tetrisphere (U) [!].v64",
+      "label": "Tetrisphere (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DB18578|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tetris 64 (J) [!].v64",
+      "label": "Tetris 64 (Japan) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08B4CA1B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Tamagotchi 64 (J) (!).v64",
+      "label": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6400938|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Superman (U) (M3) [!].z64",
+      "label": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "437E3677|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Supercross 2000 (U) [!].z64",
+      "label": "Supercross 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "094E2A48|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Super Smash Bros. (U) [!].n64",
+      "label": "Super Smash Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB97929E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Super Mario 64 (U) [!].v64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42C43204|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Stunt Racer 64 (U) [!].z64",
+      "label": "Stunt Racer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3438B1AF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Starshot - Space Circus Fever (U) [!].z64",
+      "label": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7720E5F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Starfox 64 1.1 (U).v64",
+      "label": "Star Fox 64 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D71902B0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/StarCraft 64 (U) [!].v64",
+      "label": "StarCraft 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14C77369|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Star Wars Episode I - Racer (U) [!].v64",
+      "label": "Star Wars Episode I - Racer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "494C667A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Star Wars Episode I - Battle for Naboo (U) [!].v64",
+      "label": "Star Wars Episode I - Battle for Naboo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97EBBEA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Star Wars - Shadows of the Empire (U) (V1.2) [!].v64",
+      "label": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F4E546D1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Spider-Man (U) [!].v64",
+      "label": "Spider-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2866A6E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Spacestation Silicon Valley (U) [!].v64",
+      "label": "SpaceStation Silicon Valley (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "76DB1DA1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Space Invaders (U) [!].z64",
+      "label": "Space Invaders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "60F7FF8E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/South Park Rally (U) [!].z64",
+      "label": "South Park Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCDD322A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/South Park - Chef's Luv Shack (U) [!].z64",
+      "label": "South Park - Chef's Luv Shack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B6B1D09|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Sonic Wings Assault (J) [!].v64",
+      "label": "Sonic Wings Assault (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D8F9D5E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Snowboard Kids 2 (U) [!].v64",
+      "label": "Snowboard Kids 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA84AACE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Snowboard Kids (U) [!].v64",
+      "label": "Snowboard Kids (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "540C190B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Sin and Punishment.N64",
+      "label": "Tsumi to Batsu - Hoshi no Keishousha (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0891399|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Sim City 2000 (J) [!].v64",
+      "label": "SimCity 2000 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7A96B81|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Shadowgate 64 - Trials of the Four Towers (U) [!].z64",
+      "label": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69983CC3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/San Francisco Rush 2049 (U) [!].z64",
+      "label": "San Francisco Rush 2049 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10941439|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/San Francisco Rush 2049 (U) [!].v64",
+      "label": "San Francisco Rush 2049 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A03B9DE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/San Francisco Rush - Extreme Racing (U) [!].z64",
+      "label": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E20070B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/S.C.A.R.S. (U) [!].z64",
+      "label": "S.C.A.R.S. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "22916735|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rush 2 - Extreme Racing USA (U) [!].z64",
+      "label": "Rush 2 - Extreme Racing USA (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EB14EA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rugrats in Paris - The Movie (U) [!].z64",
+      "label": "Rugrats in Paris - The Movie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9CC2419|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rugrats - Scavenger Hunt (U) [!].z64",
+      "label": "Rugrats - Scavenger Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A87FAF82|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/RR64 - Ridge Racer 64 (U) [!].v64",
+      "label": "RR64 - Ridge Racer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CCB9749|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rocket - Robot on Wheels (U) [!].v64",
+      "label": "Rocket - Robot on Wheels (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0F36D79|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Robotron 64 (U) [!].z64",
+      "label": "Robotron 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B2CBAE58|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Robot Ponkottsu 64 - Caramel of the 7 Seas (J) [!].v64",
+      "label": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B0F8061|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Roadsters (U) [!].z64",
+      "label": "Roadsters (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4337B92|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Resident Evil 2 (U) [!].v64",
+      "label": "Resident Evil 2 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A0D64BB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Ready 2 Rumble Boxing Round 2 (U) [!].z64",
+      "label": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "052A0E04|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Ready 2 Rumble Boxing (U) [!].z64",
+      "label": "Ready 2 Rumble Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A554048|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rayman 2 - The Great Escape (U) [!].v64",
+      "label": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72EE54B2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rampage 2 - Universal Tour (U) [!].z64",
+      "label": "Rampage 2 - Universal Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7614EE0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Rampage - World Tour (U) [!].z64",
+      "label": "Rampage - World Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "211119DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Quest 64 (U) [!].z64",
+      "label": "Quest 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D75B45C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Quake II (U) [!].z64",
+      "label": "Quake II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E6B34387|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Quake II (U) [!].v64",
+      "label": "Quake II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D880E55|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Powerpuff Girls, The - Chemical X-traction (U) [!].z64",
+      "label": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9514DA0A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Stadium 2 (U) [!].v64",
+      "label": "Pokemon Stadium 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FBFF058A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Stadium (U) [!].v64",
+      "label": "Pokemon Stadium (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3003E90C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Snap (U) [!].v64",
+      "label": "Pokemon Snap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DF387848|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Puzzle League (U) [!].z64",
+      "label": "Pokemon Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B9C598F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pokemon Puzzle League (U) [!].v64",
+      "label": "Pokemon Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "281AFB0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Pilotwings 64 (U) [!].v64",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C445F7E3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Perfect Dark (U) (V1.1) [!].z64",
+      "label": "Perfect Dark (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C1677F7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Perfect Dark (U) (V1.1) [!].v64",
+      "label": "Perfect Dark (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F85A16F1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Paperboy (U) [!].z64",
+      "label": "Paperboy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F27114E6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Ms. Pac-Man Maze Madness (U) [!].z64",
+      "label": "Ms. Pac-Man - Maze Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E34C7060|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Monopoly (U) [!].z64",
+      "label": "Monopoly (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8CAD8F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mega_Man_64_(U)_[!].v64",
+      "label": "Mega Man 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1BFC71F0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mahjong 64 (J) [!].z64",
+      "label": "Mahjong 64 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FB9138C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Kirby 64 - The Crystal Shards (E) [!].z64",
+      "label": "Kirby 64 - The Crystal Shards (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5B8B89EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Ken Griffey Jr.'s Slugfest (U) [!].z64",
+      "label": "Ken Griffey Jr.'s Slugfest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12D8F3E9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/International Track and Field 2000 (U) [!].z64",
+      "label": "International Track & Field 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA443F0B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/In-Fisherman Bass Hunter 64 (U) [!].z64",
+      "label": "In-Fisherman - Bass Hunter 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D8EB5E6E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Hercules - The Legendary Journeys (U) [!].z64",
+      "label": "Hercules - The Legendary Journeys (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4948892B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Goemon's Great Adventure (U) [!].z64",
+      "label": "Goemon's Great Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52D418E1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/G.A.S.P! Fighter's NEXTream (E) [!].v64",
+      "label": "G.A.S.P!! Fighters' NEXTream (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5AA63B04|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (U) [!].v64",
+      "label": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C650BE3C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Off Road Challenge (U) [!].z64",
+      "label": "Off Road Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A45C5AB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Nuclear Strike 64 (U) [!].z64",
+      "label": "Nuclear Strike 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7467294|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/NHL 99 (U) [!].v64",
+      "label": "NHL 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50F81F73|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/NFL Blitz 2001 (U) [!].v64",
+      "label": "NFL Blitz 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E18211E5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/NFL Blitz (U) [!].v64",
+      "label": "NFL Blitz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5FA3455D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mystical Ninja Starring Goemon (E) [!].z64",
+      "label": "Mystical Ninja Starring Goemon (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BD9059A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mystical Ninja 2 - Starring Goemon (E) [!].v64",
+      "label": "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6DF2BDA6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mystical Ninja - Starring Goemon (U) [!].z64",
+      "label": "Mystical Ninja Starring Goemon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4180C296|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mortal Kombat Trilogy (English).v64",
+      "label": "Mortal Kombat Trilogy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58E57C08|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mortal Kombat Mythologies - Sub-Zero (U) [!].z64",
+      "label": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51A07FD9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mortal Kombat 4 (U) [!].z64",
+      "label": "Mortal Kombat 4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7F46516|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Monster Truck Madness 64 (U) [!].z64",
+      "label": "Monster Truck Madness 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3FD0604D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mission Impossible (U) [!].z64",
+      "label": "Mission - Impossible (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3677A8B8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mischief Makers (U) [!].v64",
+      "label": "Mischief Makers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF7B3820|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Micro Machines 64 Turbo (U) [!].z64",
+      "label": "Micro Machines 64 Turbo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A62A2763|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Tennis (U) [!].v64",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "995C9F24|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Party 3 (U) [!].v64",
+      "label": "Mario Party 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A1BEE3F8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Party 2 (U) [!].v64",
+      "label": "Mario Party 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BA5471B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Party (U) [!].v64",
+      "label": "Mario Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4717CD1B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mario Kart 64 (U) [!].v64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2BCEE11C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Major League Baseball Featuring Ken Griffey Jr. (U) [!].z64",
+      "label": "Major League Baseball featuring Ken Griffey Jr. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2EF1EA20|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Madden Football 64 (U) [!].z64",
+      "label": "Madden Football 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42E5FAFA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Madden 2000 (U) [!].z64",
+      "label": "Madden NFL 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF5F997B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Mace - The Dark Age (U) [!].z64",
+      "label": "Mace - The Dark Age (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2A363A6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Lylat Wars (E) [!].v64",
+      "label": "Lylatwars (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "94A1A16A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Looney Tunes - Duck Dodgers (E) [!].z64",
+      "label": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C61F6BB9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Lode Runner 3-D (U) [!].z64",
+      "label": "Lode Runner 3-D (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EA07453|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!].v64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C7DBF5B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Legend of Zelda, The - Majora's Mask (U) [!].v64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3EE3F2D1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Kobe Bryant's NBA Courtside (U) [!].z64",
+      "label": "Kobe Bryant in NBA Courtside (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86360BFB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Knockout Kings 2000 (U) [!].z64",
+      "label": "Knockout Kings 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "074690D6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Knife Edge - Nose Gunner (U) [!].z64",
+      "label": "Knife Edge - Nose Gunner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "255EE1DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/King Hill 64 - Extreme Snowboarding (J) [!].v64",
+      "label": "King Hill 64 - Extreme Snowboarding (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC5F8666|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Killer Instinct Gold (U) (V1.2) [!].z64",
+      "label": "Killer Instinct Gold (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B5B5DF8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Jet Force Gemini (U) [!].v64",
+      "label": "Jet Force Gemini (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B5932174|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Jeremy McGrath Supercross 2000 (U) [!].z64",
+      "label": "Jeremy McGrath Supercross 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A5C9A06|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Jeopardy! (U) [!].z64",
+      "label": "Jeopardy! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E739947C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/International Superstar Soccer 64 (U) [!].z64",
+      "label": "International Superstar Soccer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0EA249B9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/International Superstar Soccer 2000 (U) [!].z64",
+      "label": "International Superstar Soccer 2000 (USA) (En,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCD0538F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/International Superstar Soccer '98 (U) [!].z64",
+      "label": "International Superstar Soccer '98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B85FA721|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/International Superstar Soccer '98 (E) [!].v64",
+      "label": "International Superstar Soccer '98 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "463FE8B7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Indy Racing 2000 (U) [!].z64",
+      "label": "Indy Racing 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5163F29|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Indiana Jones and the Infernal Machine (U) [!].z64",
+      "label": "Indiana Jones and the Infernal Machine (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4978EB57|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Hybrid Heaven (U) [!].z64",
+      "label": "Hybrid Heaven (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15B57EF8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Hot Wheels Turbo Racing (U) [!].z64",
+      "label": "Hot Wheels - Turbo Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5C92148|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Hey You, Pikachu! (U) [!].z64",
+      "label": "Hey You, Pikachu! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B18B2734|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Hexen (U) [!].z64",
+      "label": "Hexen (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D35E110|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Harvest Moon 64 (U) [!].v64",
+      "label": "Harvest Moon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2EE315F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/GT 64 Championship Edition (U) [!].z64",
+      "label": "GT 64 - Championship Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC627DA7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/GoldenEye 007 (U) [!].V64",
+      "label": "GoldenEye 007 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B70CB5B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Glover (U) [!].v64",
+      "label": "Glover (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D024893A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Gex 64 - Enter the Gecko (U) [!].z64",
+      "label": "Gex 64 - Enter the Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C545CE80|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Gex 3 - Deep Cover Gecko (U) [!].z64",
+      "label": "Gex 3 - Deep Cover Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87A7D099|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Gauntlet Legends (U) [!].z64",
+      "label": "Gauntlet Legends (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64765E82|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/gasp.v64",
+      "label": "G.A.S.P!! Fighters' NEXTream (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5AA63B04|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Fox Sports College Hoops '99 (U) [!].z64",
+      "label": "Fox Sports College Hoops '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "67EAF0F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Forsaken 64 (U) [!].z64",
+      "label": "Forsaken 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "76C4333D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Flying Dragon (U) [!].z64",
+      "label": "Flying Dragon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91BC9AEB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Fire Electric Pen (J) [!].v64",
+      "label": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB8C642B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Fighting Force 64 (U) [!].z64",
+      "label": "Fighting Force 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8456841E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Fighter's Destiny 2 (U) [!].z64",
+      "label": "Fighter Destiny 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB2563C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Fighter's Destiny (U) [!].z64",
+      "label": "Fighters Destiny (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F45EA789|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/FIFA 99 (U) [!].z64",
+      "label": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B2473A9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F1_World_Grand_Prix2(E).v64",
+      "label": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "484C801D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F-Zero X (U) [!].v64",
+      "label": "F-Zero X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9408C2C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F-1 World Grand Prix (U) [!].z64",
+      "label": "F-1 World Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7DC9EF2C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/F-1 Pole Position 64 (U) [!].z64",
+      "label": "F1 Pole Position 64 (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "30A24D89|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Extreme-G (U) [!].v64",
+      "label": "Extreme-G (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A43A0B17|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Excitebike 64 (U) [!].v64",
+      "label": "Excitebike 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF78ED7E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Earthworm Jim 3D (English).v64",
+      "label": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20C3ADAB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Duke Nukem 64 (U) [!].z64",
+      "label": "Duke Nukem 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DBFD5A53|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Dual Heroes (U) [!].z64",
+      "label": "Dual Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D09F4DA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Dr. Mario 64 (U) [!].v64",
+      "label": "Dr. Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7C44B5B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Doom 64 (U) [!].z64",
+      "label": "Doom 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CC1ADE6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Donkey Kong 64 (U) [!].v64",
+      "label": "Donkey Kong 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "96972D67|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Disney's Tarzan (U) [!].z64",
+      "label": "Tarzan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C38CA641|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Disney's Donald Duck - Goin' Quackers (U) [!].z64",
+      "label": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7FDEC270|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Diddy Kong Racing (U) (M2) (V1.1) [!].v64",
+      "label": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "96C32BB6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Destruction Derby 64 (U) [!].z64",
+      "label": "Destruction Derby 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38F1B5D9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Derby Stallion 64 (J) [!].v64",
+      "label": "Derby Stallion 64 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "922506AD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Dark Rift (U) [!].z64",
+      "label": "Dark Rift (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83FD222F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/CyberTiger (U) [!].z64",
+      "label": "CyberTiger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10CC5F15|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Custom Robo V2 (J) [!].z64",
+      "label": "Custom Robo V2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8201454|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Cruis'n World (U) [!].z64",
+      "label": "Cruis'n World (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A123769F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Cruis'n Exotica (U) [!].z64",
+      "label": "Cruis'n Exotica (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "867A2CED|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Conker's Bad Fur Day (U) [!].v64",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE8CC172|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Command and Conquer 3D (U) (!).n64",
+      "label": "Command & Conquer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E9069EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Command & Conquer (U) [!].v64",
+      "label": "Command & Conquer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D23BA95|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Clay Fighter 63 1-3 (U) [!].z64",
+      "label": "Clay Fighter 63 1-3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3FA647DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Chopper Attack (U) [!].z64",
+      "label": "Chopper Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA5D76A9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Charlie Blast's Territory (U) [!].z64",
+      "label": "Charlie Blast's Territory (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA4E65A8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Chameleon Twist 2 (U) [!].z64",
+      "label": "Chameleon Twist 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDF26D67|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Chameleon Twist (U) [!].z64",
+      "label": "Chameleon Twist (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7FE024C9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Castlevania - Legacy of Darkness (U) [!].v64",
+      "label": "Castlevania - Legacy of Darkness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1F147376|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Carmageddon 64 (U) [!].z64",
+      "label": "Carmageddon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10C6A0A1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/California Speed (U) [!].z64",
+      "label": "California Speed (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6F6262CB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bust-A-Move 99 (U) (!).n64",
+      "label": "Bust-A-Move '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C285FC69|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bust-A-Move 3 DX (E) [!].v64",
+      "label": "Bust-A-Move 3 DX (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F3F484B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bust-A-Move 2 - Arcade Edition (U) [!].z64",
+      "label": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F54CD2D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bust-A-Move '99 (U) [!].z64",
+      "label": "Bust-A-Move '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C285FC69|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Buck Bumble (U) [!].z64",
+      "label": "Buck Bumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EC937DB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bottom of the 9th (U) [!].z64",
+      "label": "Bottom of the 9th (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1844C8CA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bomberman Hero (U) [!].z64",
+      "label": "Bomberman Hero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2CC2E634|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bomberman 64 - The Second Attack! (U) [!].z64",
+      "label": "Bomberman 64 - The Second Attack! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57550007|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bomberman 64 (U) [!].z64",
+      "label": "Bomberman 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3ED0E0DC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Body Harvest (U) [!].v64",
+      "label": "Body Harvest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B878C56|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Blues Brothers 2000 (U) [!].z64",
+      "label": "Blues Brothers 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6F49764|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Extreme-G XG2 (U) [!].z64",
+      "label": "Extreme-G XG2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81A4C28B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Duck Dodgers Starring Daffy Duck (U) [!].z64",
+      "label": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3177A905|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Donald Duck - Quack Attack (E) [!].z64",
+      "label": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C4B0D9EA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Deadly Arts (U) [!].z64",
+      "label": "Deadly Arts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DB8130E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Cruis'n USA (U) (V1.2) [!].z64",
+      "label": "Cruis'n USA (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3B52701|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Clay Fighter - Sculptor's Cut (U) [!].z64",
+      "label": "Clay Fighter - Sculptor's Cut (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "434DE656|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Castlevania (U) (V1.2) [!].v64",
+      "label": "Castlevania (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F50E637|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Blast Dozer (J) [!].v64",
+      "label": "Blastdozer (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4605759E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bakuretsu Muteki Bangai-O (J) [!].z64",
+      "label": "Bakuretsu Muteki Bangaioh (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6AB7FEC6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/All-Star Baseball 2001 (U) [!].v64",
+      "label": "All-Star Baseball 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E8BE0E0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Blast Corps (U) (V1.1) [!].v64",
+      "label": "Blast Corps (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "23D415F8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bio F.R.E.A.K.S. (U) [!].z64",
+      "label": "Bio F.R.E.A.K.S. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFBF448C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Big Mountain 2000 (U) [!].z64",
+      "label": "Big Mountain 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3AC924BC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Beetle Adventure Racing! (U) [!].v64",
+      "label": "Beetle Adventure Racing! (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3517FD8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Beast Wars Transmetal (U) [!].z64",
+      "label": "Transformers - Beast Wars Transmetals (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85138B5A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/BattleTanx - Global Assault (U) [!].v64",
+      "label": "BattleTanx - Global Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5819D423|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/BattleTanx (U) [!].z64",
+      "label": "BattleTanx (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C230765|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bassmasters 2000 (U) [!].z64",
+      "label": "Bassmasters 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B09092E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Bass Hunter 64 (E) [!].v64",
+      "label": "In-Fisherman - Bass Hunter 64 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "930E6F44|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Banjo-Tooie (E) [!].v64",
+      "label": "Banjo-Tooie (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EE620FB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Banjo-Kazooie (U) [!].v64",
+      "label": "Banjo-Kazooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FD43199|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Automobili Lamborghini (U) [!].z64",
+      "label": "Automobili Lamborghini (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4374EAC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Army Men - Sarge's Heroes 2 (U) [!].z64",
+      "label": "Army Men - Sarge's Heroes 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79A71608|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Army Men - Sarge's Heroes (U) [!].z64",
+      "label": "Army Men - Sarge's Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2FE786F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Army Men - Air Combat (U) [!].z64",
+      "label": "Army Men - Air Combat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1952CC87|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Armorines - Project S.W.A.R.M. (U) [!].z64",
+      "label": "Armorines - Project S.W.A.R.M. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "630A19E2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/All-Star Baseball 99 (U) [!].z64",
+      "label": "All-Star Baseball 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D25B36F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/All-Star Baseball 2000 (U) [!].z64",
+      "label": "All-Star Baseball 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69E88471|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/All Star Tennis '99 (U) [!].z64",
+      "label": "All Star Tennis 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A7DCF638|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Airboarders 64.z64",
+      "label": "Airboarder 64 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C14D45AC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Aidyn Chronicles - The First Mage (U) [!].z64",
+      "label": "Aidyn Chronicles - The First Mage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1F18186|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/AI Shougi 3 (J) [!].z64",
+      "label": "AI Shougi 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86DF90E6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/AGS-PGAE.n64",
+      "label": "PGA European Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CDFCDAA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/AeroGauge (U) [!].z64",
+      "label": "AeroGauge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "198B9E0E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Aerofighter's Assault (U) [!].z64",
+      "label": "AeroFighters Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4370D7E3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/A Bug's Life (U) [!].v64",
+      "label": "Bug's Life, A (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF2EA0B6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/1080 Snowboarding (E) [!].v64",
+      "label": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0256101|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/Paper Mario (U) [!].v64",
+      "label": "Paper Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D56D1C89|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 64/FIFA Soccer 64 (U) (M3) [!].z64",
+      "label": "FIFA Soccer 64 (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57DE7CAB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

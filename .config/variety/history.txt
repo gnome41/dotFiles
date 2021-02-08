@@ -1,0 +1,11 @@
+0
+/usr/share/backgrounds/hefftorlinux/alexis-antoine-VStfZbDYgNo-unsplash.jpg
+/usr/share/backgrounds/hefftorlinux/bogdana-kadritskaya.jpg
+/usr/share/backgrounds/hefftorlinux/elven-sancuary.jpg
+/usr/share/backgrounds/hefftorlinux/Hefftor_sFx1.png
+/usr/share/backgrounds/hefftorlinux/bogdana-kadritskaya.jpg
+/usr/share/backgrounds/hefftorlinux/moon sunset landscape.png
+/usr/share/backgrounds/hefftorlinux/bogdana-kadritskaya.jpg
+/usr/share/backgrounds/hefftorlinux/moon sunset landscape.png
+/usr/share/backgrounds/hefftorlinux/alexis-antoine-VStfZbDYgNo-unsplash.jpg
+/usr/share/backgrounds/gnome/adwaita-timed.xml

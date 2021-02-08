@@ -1,0 +1,113 @@
+**** BEGIN LOGGING AT Mon Dec 14 04:28:30 2020
+
+Dec 14 04:28:30 *	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=DaIRC CASEMAPPING=ascii EXTBAN=~,cqnrT ELIST=MNUCT :are supported by this server
+Dec 14 04:28:30 *	STATUSMSG=~&@%+ EXCEPTS INVEX CALLERID=I :are supported by this server
+Dec 14 04:28:30 *	There are 45 users and 141 invisible on 2 servers
+Dec 14 04:28:30 *	12 :operator(s) online
+Dec 14 04:28:30 *	118 :channels formed
+Dec 14 04:28:30 *	I have 140 clients and 1 servers
+Dec 14 04:28:30 *	Current Local Users: 140  Max: 1003
+Dec 14 04:28:30 *	Current Global Users: 186  Max: 1109
+Dec 14 04:28:30 *	- irc.hinoto.dairc.net Message of the Day - 
+Dec 14 04:28:30 *	- 13/10/2011 18:48
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-                          ,%,_
+Dec 14 04:28:30 *	-                         %%%/,\
+Dec 14 04:28:30 *	-                      _.-"%%|//%
+Dec 14 04:28:30 *	-                   _.' ,.-"  /%%%
+Dec 14 04:28:30 *	-               _.-'_.-" @)    \%%%
+Dec 14 04:28:30 *	-              /.\.'            \%%%
+Dec 14 04:28:30 *	-              \ /    _/  _,     |%%%
+Dec 14 04:28:30 *	-               `"-----"~`\       \%%'   _,--""""-,%%,
+Dec 14 04:28:30 *	-                          )       `""~~`          \%%%,
+Dec 14 04:28:30 *	-                        _/                         \%%%
+Dec 14 04:28:30 *	-                    _.-`/                           |%%,___
+Dec 14 04:28:30 *	-                _.-"   /      ,           ,        ,|%%   .`\
+Dec 14 04:28:30 *	-               /\     /      /             `\       \%'   \ /
+Dec 14 04:28:30 *	-               \ \ _,/      /`~-._         _,`\      \`""~~`
+Dec 14 04:28:30 *	-                `"` /-.,_ /'      `~"----"~    `\     \
+Dec 14 04:28:30 *	-                    \___,'                       \.-"`/
+Dec 14 04:28:30 *	-                                                  `--'
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-                  o Welcome to hinoto.dairc.net o
+Dec 14 04:28:30 *	-                   o Blame Fran for everything o
+Dec 14 04:28:30 *	-                    o    Powered by Pony!     o
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-              o Listening on ports: 5999, 6660-6669 o
+Dec 14 04:28:30 *	-                  o Listening on SSL ports: 6697 o
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------Server Guidelines ------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o No Flooding                               o No Ban Evasion
+Dec 14 04:28:30 *	-  o No DoS Bots                               o No Malicious Botnets
+Dec 14 04:28:30 *	-  o No Hate Groups                            o No Child Pornography
+Dec 14 04:28:30 *	-  o No Spamming                               o Yes Ponies
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-    For a more indepth explanation of the guidelines type: "/rules"
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------Official Channels ------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o #deltaanime     - Official Network Chat channel
+Dec 14 04:28:30 *	-  o #support        - Official daIRC Support Channel
+Dec 14 04:28:30 *	-  o #frantech       - Official Frantech VPS Channel
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------Useful Websites --------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o http://www.dairc.net Official daIRC Website
+Dec 14 04:28:30 *	-  o http://www.datorrents.com daTorrents
+Dec 14 04:28:30 *	-  o http://www.frantech.ca FranTech Hosting
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------Administration ---------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o Delta       Network Founder / daIRC Owner / Sasquatch
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o Dilt        Network Administrator / King of Idiots / Pony
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o Nebi        Adminserv Operator / Town Yeller
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  o Drakkar     Adminserv Operator / Santa / Lord of the Large Pants
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------Disclaimer -------------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  By connecting to this network, you have agreed to allow us to scan
+Dec 14 04:28:30 *	-  your IP address for open ports with our open proxy scanner.
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  The daIRC network is a private network that strives to provide
+Dec 14 04:28:30 *	-  its userbase with a measure of confidentiality and privacy. With
+Dec 14 04:28:30 *	-  this in mind, it is a privilege and not a right to connect to the
+Dec 14 04:28:30 *	-  network and the staff reserve the right to disallow access for any
+Dec 14 04:28:30 *	-  and all reasons.
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  vHosts may be requested for use on the network by following the
+Dec 14 04:28:30 *	-  instructions available in #support.  Please
+Dec 14 04:28:30 *	-  be aware that all requested vHosts are disabled pending staff
+Dec 14 04:28:30 *	-  approval.  Abuse of the system will result in the removal of
+Dec 14 04:28:30 *	-  all vHost privileges.
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  The final solution to any issue handled by a dairc staff member
+Dec 14 04:28:30 *	-  is determined on a case by case basis and is not necessarily
+Dec 14 04:28:30 *	-  influenced by previously concluded events. Please be civil
+Dec 14 04:28:30 *	-  when dealing with any member of the daIRC staff as your
+Dec 14 04:28:30 *	-  manners may in fact influence the outcome. The general rule
+Dec 14 04:28:30 *	-  of thumb is:
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-       o "Treat others as you wish to be treated." o
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	-  If you believe that your case has been mishandled, please
+Dec 14 04:28:30 *	-  submit a ticket at: http://support.dairc.net Please include 
+Dec 14 04:28:30 *	-  an outline of the event, the parties involved and your reasons 
+Dec 14 04:28:30 *	-  for appealing.
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	- -------End Of MOTD ------------------------------------------------
+Dec 14 04:28:30 *	- 
+Dec 14 04:28:30 *	End of /MOTD command.
+Dec 14 04:28:30 *	pete sets mode +i on pete
+Dec 14 04:28:30 *	pete sets mode +w on pete
+Dec 14 04:28:30 *	pete sets mode +x on pete
+Dec 14 04:28:49 Perl interface unloaded
+Dec 14 04:28:49 Sysinfo plugin unloaded
+Dec 14 04:28:49 Checksum plugin unloaded
+Dec 14 04:28:49 Python interface unloaded
+Dec 14 04:28:49 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Mon Dec 14 04:28:49 2020
+

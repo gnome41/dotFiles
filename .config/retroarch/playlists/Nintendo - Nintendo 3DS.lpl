@@ -1,0 +1,19 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo 3DS/Pokemon Ultra Sun (EUR) (Retail) MULTi8 Decrypted.3ds",
+      "label": "Pokemon Ultra Sun (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "62664038|crc",
+      "db_name": "Nintendo - Nintendo 3DS.lpl"
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+	"folder_history":
+	[
+		"/home/pete/bin/C++fromScratch",
+		"/home/pete",
+		"/home/pete/bin",
+		"/home/pete/.config",
+		"/home/pete/.config/bspwm"
+	],
+	"last_version": 3211,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1368.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"II",
+						"II"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instaLL",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 114.0,
+				"history":
+				[
+					"/bin/bash",
+					"open_terminal"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/pete/.config/sublime-text-3/Packages/Color Scheme - Yotsuba/Yotsuba.tmTheme",
+				"/home/pete/.config/sxhkd/sxhkdrc",
+				"/home/pete/.config/bspwm/bspwmrc",
+				"/home/pete/.config/alacritty/alacritty.yml",
+				"/home/pete/bin/kde-bspwm.sh",
+				"/run/media/pete/Data-NTFS/LinuxHomeBackups/2020-06-14/.config/bspwm/bspwmrc",
+				"/home/pete/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/TerminalView/README.md",
+				"/home/pete/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/pete/.config/sublime-text-3/Packages/Terminality/Terminality.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/Terminality/README.md",
+				"/home/pete/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/pete/Downloads/ocean.dark.txt",
+				"/usr/share/gtksourceview-3.0/styles/cobalt.xml",
+				"/tmp/ark-QuIkfF/Yotsuba.tmTheme",
+				"/home/pete/Documents/RainbowDrops Inspired - Color Scheme/Fits.sublime-theme",
+				"/usr/share/gtksourceview-3.0/styles/solarized-dark.xml",
+				"/usr/share/gtksourceview-3.0/styles/builder-dark.style-scheme.xml",
+				"/home/pete/.zshrc",
+				"/home/pete/.zsh_history",
+				"/run/media/pete/Data-NTFS/Conf/mkinitcpio.conf",
+				"/run/media/pete/Data-NTFS/Conf/vfio.conf",
+				"/home/pete/_",
+				"/run/media/pete/BUP-Slim-1TB/Backup/Compilation/vfio.conf",
+				"/home/pete/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/UltraViewer_Service.exe.config",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/UltraViewer_Desktop.exe.config",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/uv_x64.exe.config",
+				"/home/pete/Documents/RainbowDrops Inspired - Color Scheme/RainbowDropsAlt.tmTheme",
+				"/run/media/pete/Emulation-NTFS/bspwmrc",
+				"/home/pete/.config/sublime-text-3/Installed Packages/RainbowDrops Inspired - Color Scheme.sublime-package",
+				"/home/pete/.config/sublime-text-3/Packages/User/Color Schemes/RainbowBrackets/1337.sublime-color-scheme"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 348.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 717.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 200.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1571.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"compu",
+						"computeProduct"
+					],
+					[
+						"II",
+						"II"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "bin/C++fromScratch/conditionals_switch-case.cpp",
+					"settings":
+					{
+						"buffer_size": 303,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "sudo pacman -S --overwrite \\* \n\nudo pacman -S --overwrite \\* ",
+					"settings":
+					{
+						"buffer_size": 61,
+						"line_ending": "Unix",
+						"name": "sudo pacman -S --overwrite \\*"
+					}
+				},
+				{
+					"file": "bin/C++fromScratch/helloWorld.cpp",
+					"settings":
+					{
+						"buffer_size": 131,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "bin/C++fromScratch/maths.cpp",
+					"settings":
+					{
+						"buffer_size": 710,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "bin/C++fromScratch/maths2.cpp",
+					"settings":
+					{
+						"buffer_size": 355,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "bin/C++fromScratch/maths3.cpp",
+					"settings":
+					{
+						"buffer_size": 464,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#include <iostream>\nusing namespace std;\n\nint main() {\n\tstring firstName;\n\tstring phoneNumber;\n\tstring address;\n\tcout << \"\" << endl;\n\tcout << \"Enter first name: \";\n\tcin >> firstName;\n\tcout << \"Enter Address (with no spaces): \";\n\tcin >> address;\n\tcout << \"Enter phone number: \";\n\tcin >> phoneNumber;\n\tcout << \"\" << endl;\n\tcout << \"Name is: \" << firstName << endl;\n\tcout << \"Address is: \" << address << endl;\n\tcout << \"Phone number is: \" << phoneNumber << endl;\n\tcout << \"\" << endl;\n\n\treturn 0;\n}",
+					"file": "bin/C++fromScratch/variablesFromWidget.cpp",
+					"file_size": 494,
+					"file_write_time": 132565126117813904,
+					"settings":
+					{
+						"buffer_size": 494,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instaLL",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 114.0,
+				"history":
+				[
+					"/bin/bash",
+					"open_terminal"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/pete/bin/C++fromScratch"
+			],
+			"file_history":
+			[
+				"/home/pete/bin/C++fromScratch/declaringVariables",
+				"/home/pete/bin/C++fromScratch/conditonals_switch-case.cpp",
+				"/home/pete/bin/C++fromScratch/maths3.cpp",
+				"/home/pete/bin/C++fromScratch/helloWorld.cpp",
+				"/home/pete/bin/C++fromScratch/variablesFromWidget",
+				"/home/pete/bin/C++fromScratch/variablesFromWidget.cpp",
+				"/home/pete/bin/C++fromScratch/if-else.cpp",
+				"/home/pete/.config/sublime-text-3/Packages/Color Scheme - Yotsuba/Yotsuba.tmTheme",
+				"/home/pete/.config/sxhkd/sxhkdrc",
+				"/home/pete/.config/bspwm/bspwmrc",
+				"/home/pete/.config/alacritty/alacritty.yml",
+				"/home/pete/bin/kde-bspwm.sh",
+				"/run/media/pete/Data-NTFS/LinuxHomeBackups/2020-06-14/.config/bspwm/bspwmrc",
+				"/home/pete/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/TerminalView/README.md",
+				"/home/pete/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/pete/.config/sublime-text-3/Packages/Terminality/Terminality.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/Terminality/README.md",
+				"/home/pete/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/pete/Downloads/ocean.dark.txt",
+				"/usr/share/gtksourceview-3.0/styles/cobalt.xml",
+				"/tmp/ark-QuIkfF/Yotsuba.tmTheme",
+				"/home/pete/Documents/RainbowDrops Inspired - Color Scheme/Fits.sublime-theme",
+				"/usr/share/gtksourceview-3.0/styles/solarized-dark.xml",
+				"/usr/share/gtksourceview-3.0/styles/builder-dark.style-scheme.xml",
+				"/home/pete/.zshrc",
+				"/home/pete/.zsh_history",
+				"/run/media/pete/Data-NTFS/Conf/mkinitcpio.conf",
+				"/run/media/pete/Data-NTFS/Conf/vfio.conf",
+				"/home/pete/_",
+				"/run/media/pete/BUP-Slim-1TB/Backup/Compilation/vfio.conf",
+				"/home/pete/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pete/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/UltraViewer_Service.exe.config",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/UltraViewer_Desktop.exe.config",
+				"/home/pete/.wine/drive_c/Program Files (x86)/UltraViewer/uv_x64.exe.config",
+				"/home/pete/Documents/RainbowDrops Inspired - Color Scheme/RainbowDropsAlt.tmTheme",
+				"/run/media/pete/Emulation-NTFS/bspwmrc",
+				"/home/pete/.config/sublime-text-3/Installed Packages/RainbowDrops Inspired - Color Scheme.sublime-package",
+				"/home/pete/.config/sublime-text-3/Packages/User/Color Schemes/RainbowBrackets/1337.sublime-color-scheme"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"b"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/pete/bin/C++fromScratch"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "bin/C++fromScratch/conditionals_switch-case.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										303,
+										303
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 61,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										61,
+										61
+									]
+								],
+								"settings":
+								{
+									"auto_name": "sudo pacman -S --overwrite \\*",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "bin/C++fromScratch/helloWorld.cpp",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 131,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										131,
+										131
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "bin/C++fromScratch/maths.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 710,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										153,
+										153
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "bin/C++fromScratch/maths2.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										355,
+										355
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "bin/C++fromScratch/maths3.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 464,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										464,
+										464
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "bin/C++fromScratch/variablesFromWidget.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 494,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										494,
+										494
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 327.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,0,0,0,0,20,50,952,1058,3840,2520",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 717.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 200.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 20,
+			"workspace_name": "/home/pete/c++fromScratch.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/pete/c++fromScratch.sublime-workspace",
+			"/home/pete/bin/dotFiles.sublime-workspace",
+			"/home/pete/bin/C++fromScratch/C++fromScratch.sublime-workspace",
+			"/home/pete/bin/C++fromScratch/dotFiles.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+    "256color": true,
+    "unix_term": "xterm",
+    "theme": "user",
+	"user_theme_colors": {
+        "background": "#14191f",
+        "foreground": "#aec2e0",
+        "caret": "#F8F8F0",
+        "block_caret": "#F8F8F0",
+        "selection": "#aec2e0",
+        "selection_foreground": "#1b232c",
+        "00": "#14191f",  // black
+        "01": "#456778",  // red
+        "02": "#336D92",  // green
+        "03": "#447995",  // brown
+        "04": "#3C85A8",  // blue
+        "05": "#4792AE",  // magenta
+        "06": "#51A5D8",  // cyan
+        "07": "#ade3f2",  // white
+        "08": "#799ea9",  // light_black
+        "09": "#456778",  // light_red
+        "10": "#336D92",  // light_green
+        "11": "#447995",  // light_brown
+        "12": "#3C85A8",  // light_blue
+        "13": "#4792AE",  // light_magenta
+        "14": "#51A5D8",  // light_cyan
+        "15": "#ade3f2"   // light_white
+    },
+    "view_settings": {
+        // these are extra view settings which are passed to the terminus_view,
+        // you could change settings like "font_face", "font_size" and paddings.
+        "font_face": "Victor Mono",
+        "font_size": 8
+    }
+}

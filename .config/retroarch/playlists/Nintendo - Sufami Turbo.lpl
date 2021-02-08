@@ -1,0 +1,115 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Bishoujo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (ST).smc",
+      "label": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB5C4238|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Crayon Shin-chan - Nagagutsu Dobon!! (ST).smc",
+      "label": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EB753F3|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Gegege no Kitarou - Youkai Donjara (ST).smc",
+      "label": "Gegege no Kitarou - Youkai Donjara (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4296500D|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Gekisou Sentai Car Rangers (ST).smc",
+      "label": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14C66FCA|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/Poi Poi Ninja World (ST).smc",
+      "label": "Poi Poi Ninja World (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "32B2B3DD|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation C - Axis Senki (ST).smc",
+      "label": "SD Gundam Generation - Axis Senki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72B4235F|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation D - Babylonia Kenkoku Senki (ST).smc",
+      "label": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "792D884C|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation F - Colony Kaku Senki (ST).smc",
+      "label": "SD Gundam Generation - Colony Kakutouki (Japan)",
+      "core_path": "/usr/lib/libretro/bsnes2014_accuracy_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes 2014 Accuracy)",
+      "crc32": "C5DFA8FD|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation B - Grisp Senki (ST).smc",
+      "label": "SD Gundam Generation - Gryps Senki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48ECAE44|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation A - Ichinen Sensouki (ST).smc",
+      "label": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AFD74DCB|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Gundam Generation E - Zansukaaru Senki (ST).smc",
+      "label": "SD Gundam Generation - Zanscare Senki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFD3A865|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Ultra Battle - Seven Densetsu (ST).smc",
+      "label": "SD Ultra Battle - Seven Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "43AD5A45|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo SNES/SD Ultra Battle - Ultraman Densetsu (ST).smc",
+      "label": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04939D14|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    }
+  ]
+}

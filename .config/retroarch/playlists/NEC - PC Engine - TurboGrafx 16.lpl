@@ -1,0 +1,1067 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/World Sports Competition (U).pce",
+      "label": "World Sports Competition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4B93F0AC|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/World Court Tennis (U).pce",
+      "label": "World Court Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4457DF0|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/World Class Baseball (U).pce",
+      "label": "World Class Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4186D0C0|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Yo, Bro (U).pce",
+      "label": "Yo, Bro (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CA7DB48|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Vigilante (U).pce",
+      "label": "Vigilante (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79D49A0D|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Ten no Koe Memory Bank (J).pce",
+      "label": "Ten no Koe Bank (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B3808BD|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Strip Fighter II (J).pce",
+      "label": "Strip Fighter II (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6FC51CE|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Shougi Shodan Icchokusen (J).pce",
+      "label": "Shougi Shodan Icchokusen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "23EC8970|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/ShockMan (U).pce",
+      "label": "Shockman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2774462C|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Psychosis (U).pce",
+      "label": "Psychosis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6CC10824|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Power League IV (J).pce",
+      "label": "Power League 4 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "30CC3563|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Panza Kick Boxing (U).pce",
+      "label": "Andre Panza Kick Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A980E0E9|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Moto Roader (U).pce",
+      "label": "Moto Roader (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2B0D544|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Morita Shougi PC (J).pce",
+      "label": "Morita Shougi PC (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2546EFE0|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/King of Casino (U).pce",
+      "label": "King of Casino (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F2E2240|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Kick Ball (J).pce",
+      "label": "KickBall (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7E3C367B|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Keith Courage in Alpha Zones (U).pce",
+      "label": "Keith Courage in Alpha Zones (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "474D7A72|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Jackie Chan's Action Kung Fu (U).pce",
+      "label": "Jackie Chan's Action Kung Fu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9D2F6193|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Jack Nicklaus' Turbo Golf (U).pce",
+      "label": "Jack Nicklaus' Turbo Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83384572|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Ganbare Golf Boys (J).pce",
+      "label": "Ganbare! Golf Boys (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27A4D11A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Double Dungeons (U).pce",
+      "label": "Double Dungeons (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4A1A8C60|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Devil's Crush (U).pce",
+      "label": "Devil's Crush (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "157B4492|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Detana!! TwinBee (J).pce",
+      "label": "Detana!! TwinBee (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CF59D80|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Deep Blue (U).pce",
+      "label": "Deep Blue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16B40B44|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Dead Moon - Tsuki Sekai no Akumu (J).pce",
+      "label": "Dead Moon - Getsu Sekai no Akumu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56739BC7|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Dead Moon (U).pce",
+      "label": "Dead Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5D98B0B|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bloody Wolf (U).pce",
+      "label": "Bloody Wolf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "37BAF6BC|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Victory Run (U).pce",
+      "label": "Victory Run (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85CBD045|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Veigues Tactical Gladiator (U).pce",
+      "label": "Veigues - Tactical Gladiator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "99D14FB7|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/USA Pro Basketball (J).pce",
+      "label": "USA Pro Basketball (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CAD4B7F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/TV Sports Hockey (U).pce",
+      "label": "TV Sports Hockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97FE5BCF|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/TV Sports Football (U).pce",
+      "label": "TV Sports Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E25B557|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/TV Sports Basketball (U).pce",
+      "label": "TV Sports Basketball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EA54D653|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Turrican (U).pce",
+      "label": "Turrican (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB045EDF|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J).pce",
+      "label": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F70112E5|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Tricky Kick (U).pce",
+      "label": "Tricky Kick (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48E6FD34|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Toy Shop Boys (J).pce",
+      "label": "Toy Shop Boys (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97C5EE9A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Takeda Shingen (J).pce",
+      "label": "Takeda Shingen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F022BE13|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Shougi Shoshinsha Muyou (J).pce",
+      "label": "Shougi Shoshinsha Muyou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "457F2BC4|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/R-Type (U).pce",
+      "label": "R-Type (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91CE5156|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Power League V (J).pce",
+      "label": "Power League 5 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B61E029|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Power League All Stars GOLD (J) [!].pce",
+      "label": "All Star Power League (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04A85769|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Timeball (U).pce",
+      "label": "Timeball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D395019|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Time Cruise (U).pce",
+      "label": "Time Cruise (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02C39660|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Tiger Road (U).pce",
+      "label": "Tiger Road (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "985D492D|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/TaleSpin (U).pce",
+      "label": "TaleSpin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BAE9CECC|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Takin' It to the Hoop (U).pce",
+      "label": "Takin' It to the Hoop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9D51797|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Taito Chase H.Q. (U).pce",
+      "label": "Chase H.Q. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9298254C|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Super Volley Ball (U).pce",
+      "label": "Super Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "245040B3|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Super Star Soldier (U).pce",
+      "label": "Super Star Soldier (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DB29486F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Super Metal Crusher (J).pce",
+      "label": "Super Metal Crusher (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56488B36|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Splatterhouse (U).pce",
+      "label": "Splatterhouse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D00CA74F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Spiral Wave (J).pce",
+      "label": "Spiral Wave (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5290DD0|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Space Harrier (U).pce",
+      "label": "Space Harrier (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "43B05EB8|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Sonic Spike - World Championship Beach Volleyball (U).pce",
+      "label": "Sonic Spike - World Championship Beach Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F74E5EB3|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Somer Assault (U).pce",
+      "label": "Somer Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FCAF2E9|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Soldier Blade (U).pce",
+      "label": "Soldier Blade (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4BB68B13|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Sinistron (U).pce",
+      "label": "Sinistron (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F6E2DBD|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Silent Debuggers (U).pce",
+      "label": "Silent Debuggers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA7E5D66|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Side Arms - Hyper Dyne (U).pce",
+      "label": "SideArms (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1993C9F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Sengoku Mahjong (J).pce",
+      "label": "Sengoku Mahjong (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90E6BF49|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Sekigahara (J).pce",
+      "label": "Sekigahara (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E955051|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Samurai Ghost (U).pce",
+      "label": "Samurai-Ghost (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77A924B7|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Salamander (J).pce",
+      "label": "Salamander (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FAECCE20|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Sadakichi Nanaban Series Hideyoshi no Ougon (J).pce",
+      "label": "Sadakichi Seven - Hideyoshi no Ougon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F999356F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/S.C.I. - Special Criminal Investigation (J).pce",
+      "label": "S.C.I. - Special Criminal Investigation (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09A0BFCC|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Raiden (U).pce",
+      "label": "Raiden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC59C31E|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Racing Damashii (J).pce",
+      "label": "Racing Damashii (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E79734C|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Pro Yakyuu World Stadium (J).pce",
+      "label": "Pro Yakyuu World Stadium (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34E089A9|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Pro Yakyuu World Stadium '91 (J).pce",
+      "label": "Pro Yakyuu World Stadium '91 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "66B167A9|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Power Golf (U).pce",
+      "label": "Power Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED1D3843|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/PC Genjin 2 - Pithecanthropus Computerurus (J).pce",
+      "label": "PC Genjin 2 - Pithecanthropus Computerurus (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3028F7CA|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/PC Denjin - Punkic Cyborgs (J).pce",
+      "label": "PC Denjin - Punkic Cyborgs (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "740491C2|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Parodius Da! - Shinwa kara Owarai he (J).pce",
+      "label": "Parodius Da! - Shinwa kara Owarai e (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "647718F9|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Jack Nicklaus' Greatest 18 Holes of Major Champ. Golf (J).pce",
+      "label": "Jack Nicklaus - Championship Golf (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EA751E82|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Pac-Land (U).pce",
+      "label": "Pac-Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6E30CCD|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Ordyne (U).pce",
+      "label": "Ordyne (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E7BF2A74|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Ninja Spirit (U).pce",
+      "label": "Ninja Spirit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE8AF1C1|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Night Creatures (U).pce",
+      "label": "Night Creatures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C159761B|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/NHK Taiga Drama Taiheiki (J).pce",
+      "label": "NHK Taiga Drama - Taiheiki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A32430D5|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/NHK Okaasan to Issho Niko Niko Pun (J).pce",
+      "label": "Niko Niko Pun (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "82DEF9EE|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/New Adventure Island (U).pce",
+      "label": "New Adventure Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "756A1802|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Neutopia II (U).pce",
+      "label": "Neutopia II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C4ED4307|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Necros no Yousai (J).pce",
+      "label": "Necros no Yousai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB0FDCFE|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Naxat Stadium (J).pce",
+      "label": "Naxat Stadium (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20A7D128|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Makai Hakkenden Shada (J).pce",
+      "label": "Makai Hakkenden Shada (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE62EEF5|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Magical Chase (U) [!].pce",
+      "label": "Magical Chase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "95CD2979|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Legendary Axe, The (U).pce",
+      "label": "Legendary Axe, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D211007|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Legendary Axe II, The (U).pce",
+      "label": "Legendary Axe II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "220EBF91|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Kyuukyoku Mahjong Idol Graphic (J).pce",
+      "label": "Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02DDE03E|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Klax (U).pce",
+      "label": "Klax (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F1B59B4|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/J.J. & Jeff (U).pce",
+      "label": "J.J. & Jeff (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E01C5127|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Impossamole (U).pce",
+      "label": "Impossamole (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2470F5F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Hit the Ice - VHL - The Video Hockey League (U) [!].pce",
+      "label": "Hit the Ice - VHL - The Official Video Hockey League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B29C3AA|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Gunhed Taikai (J).pce",
+      "label": "Gunhed - Special Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57F183AE|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Gunboat (U).pce",
+      "label": "Gunboat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F370B58E|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Galaga '90 (U).pce",
+      "label": "Galaga '90 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2909DEC6|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Formation Soccer - Human Cup '90 (J).pce",
+      "label": "Formation Soccer - Human Cup '90 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85A1E7B6|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Fire Pro Wrestling - Combination Tag (J).pce",
+      "label": "Fire Pro Wrestling - Combination Tag (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90ED6575|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Final Soldier (J).pce",
+      "label": "Final Soldier (Japan) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF2DD2AF|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Fantasy Zone (U).pce",
+      "label": "Fantasy Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8C3573D|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Falcon (U).pce",
+      "label": "Falcon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0BC0A12B|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Dungeon Explorer (U).pce",
+      "label": "Dungeon Explorer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FF01515|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Drop Off (U).pce",
+      "label": "Drop Off (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEA27B32|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Dragon's Curse (U).pce",
+      "label": "Dragon's Curse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D2C4B09|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Dragon Spirit (U).pce",
+      "label": "Dragon Spirit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "086F148C|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Darkwing Duck (U).pce",
+      "label": "Darkwing Duck (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4AC97606|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Daichikun Crisis (J).pce",
+      "label": "Daichi-kun Crisis - Do Natural (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "61A2935F|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Cyber Core (U).pce",
+      "label": "Cyber Core (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4CFB6E3E|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Cratermaze (U).pce",
+      "label": "Cratermaze (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9033E83A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Circus Lido (J).pce",
+      "label": "Circus Lido (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3212C24|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/China Warrior (U).pce",
+      "label": "China Warrior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2EE361D|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Chikuden Yatoubei - Kubikiri Yakata Yori (J).pce",
+      "label": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CAB21B2E|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Chew Man Fu (U).pce",
+      "label": "Chew-Man-Fu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8CD13E9A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Champions Forever Boxing (U).pce",
+      "label": "Champions Forever Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15EE889A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bubblegum Crash! - Knight Sabers 2034 (J).pce",
+      "label": "Bubblegum Crash! - Knight Sabers 2034 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D766139|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bravoman (U).pce",
+      "label": "Bravoman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCA08B02|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Boxy Boy (U).pce",
+      "label": "Boxyboy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "605BE213|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Davis Cup Tennis (U).pce",
+      "label": "Davis Cup Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EDAB596|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Battle Royale (U).pce",
+      "label": "Battle Royale (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E70B01AF|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bouken Danshaku Don - The Lost Sunheart (J).pce",
+      "label": "Bouken Danshaku Don - The Lost Sunheart (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8F4D9F94|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bonk's Revenge (U).pce",
+      "label": "Bonk's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14250F9A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bonk's Adventure (U).pce",
+      "label": "Bonk's Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "599EAD9B|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bonk III - Bonk's Big Adventure (U).pce",
+      "label": "Bonk 3 - Bonk's Big Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5A3F76D8|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bomberman (U).pce",
+      "label": "Bomberman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5F6F3C2A|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Bomberman '93 (U).pce",
+      "label": "Bomberman '93 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56171C1C|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Blazing Lazers (U).pce",
+      "label": "Blazing Lazers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4A1B0F6|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Ballistix (U).pce",
+      "label": "Ballistix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "420FA189|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Artist Tool (J).pce",
+      "label": "Artist Tool (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E4FA713|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Alien Crush (U).pce",
+      "label": "Alien Crush (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EA488494|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Air Zonk (U).pce",
+      "label": "Air Zonk (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "933D5BCC|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/TurboGrafX/Aero Blasters (U).pce",
+      "label": "Aero Blasters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B03E0B32|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    }
+  ]
+}

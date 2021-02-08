@@ -1,0 +1,715 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/X-Men - Reign of Apocalypse.zip#X-Men - Reign of Apocalypse.gba",
+      "label": "X-Men - Reign of Apocalypse (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25F43491|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wario Land 4 (E)(-Q).zip#Wario Land 4 (E)(-Q).gba",
+      "label": "Wario Land 4 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6141609|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Mario Advance 4 - Super Mario Bros. 3.zip#Super Mario Advance 4 - Super Mario Bros. 3.gba",
+      "label": "Super Mario Advance 4 - Super Mario Bros. 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A44BA79F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/SpongeBob SquarePants - SuperSponge.zip#SpongeBob SquarePants - SuperSponge.gba",
+      "label": "SpongeBob SquarePants - SuperSponge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98AD67E6|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wario Ware Inc. (U) (Precision) [1005].zip#Wario Ware Inc. (U) (Precision) [1005].gba",
+      "label": "WarioWare, Inc. - Mega Microgame$! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "785D8B8C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ultimate Brain Games (US)(Eurasia).zip#Ultimate Brain Games (US)(Eurasia).gba",
+      "label": "Ultimate Brain Games (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6C9F401|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tweety and the Magic Gems.zip#Tweety and the Magic Gems.gba",
+      "label": "Tweety and the Magic Gems (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DA5C91E|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/The Legend of Zelda - The Minish Cap (U)(Independent).zip#The Legend of Zelda - The Minish Cap (U)(Independent).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABCEBBB1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tetris Worlds.zip#Tetris Worlds.gba",
+      "label": "Tetris Worlds (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B729804|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Teenage Mutant Ninja Turtles (U).zip#Teenage Mutant Ninja Turtles (U).gba",
+      "label": "Teenage Mutant Ninja Turtles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6C36783|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Spider-Man - Mysterio's Menace.zip#Spider-Man - Mysterio's Menace.gba",
+      "label": "Spider-Man - Mysterio's Menace (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E135B4D|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/sonic advance.zip#sonic advance.gba",
+      "label": "Sonic Advance (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "63F70FD8|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sonic Advance 3 (U)(Venom).zip#Sonic Advance 3 (U)(Venom).gba",
+      "label": "Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "49DDA5E6|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Snood.zip#Snood.gba",
+      "label": "Snood (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1F1F148|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Nancy Drew - Message in a Haunted Mansion.zip#Nancy Drew - Message in a Haunted Mansion.gba",
+      "label": "Nancy Drew - Message in a Haunted Mansion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7652CD25|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Kirby - Nightmare in Dream Land (U).zip#Kirby - Nightmare in Dream Land (U).gba",
+      "label": "Kirby - Nightmare in Dream Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20EF3F64|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rugrats - Castle Capers.zip#Rugrats - Castle Capers.gba",
+      "label": "Rugrats - Castle Capers (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AABD86A|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rocket Power - Dream Scheme.zip#Rocket Power - Dream Scheme.gba",
+      "label": "Rocket Power - Dream Scheme (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93961CB2|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ready 2 Rumble Boxing - Round 2.zip#Ready 2 Rumble Boxing - Round 2.gba",
+      "label": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DFCC5E5|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Razor Freestyle Scooter.zip#Razor Freestyle Scooter.gba",
+      "label": "Razor Freestyle Scooter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFE38431|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rampage - Puzzle Attack.zip#Rampage - Puzzle Attack.gba",
+      "label": "Rampage - Puzzle Attack (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8ECA2B0F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Powerpuff Girls - Mojo Jojo A-Go-Go.zip#Powerpuff Girls - Mojo Jojo A-Go-Go.gba",
+      "label": "Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFB57DCF|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Power Rangers - Time Force.zip#Power Rangers - Time Force.gba",
+      "label": "Power Rangers - Time Force (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "70359B35|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Sapphire Version (U).zip#Pokemon - Sapphire Version (U).gba",
+      "label": "Pokemon - Sapphire Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "554DEDC4|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Fire Red Version (U).zip#Pokemon - Fire Red Version (U).gba",
+      "label": "Pokemon - FireRed Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD88761C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pinobee - Wings of Adventure.zip#Pinobee - Wings of Adventure.gba",
+      "label": "Pinobee - Wings of Adventure (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9385207|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/No Rules - Get Phat.zip#No Rules - Get Phat.gba",
+      "label": "No Rules - Get Phat (USA, Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "966FA650|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/MX 2002 featuring Ricky Carmichael.zip#MX 2002 featuring Ricky Carmichael.gba",
+      "label": "MX 2002 featuring Ricky Carmichael (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0BF1DC56|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Metal Slug - Super Vehicle.zip#Metal Slug - Super Vehicle.gba",
+      "label": "Metal Slug Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09980880|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Party Advance.zip#Mario Party Advance.gba",
+      "label": "Mario Party Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F094A4CB|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mortal Kombat Advance (U) (Venom) [0247].zip#Mortal Kombat Advance (U) (Venom) [0247].gba",
+      "label": "Mortal Kombat Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BCDABB47|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Monster Rancher Advance 2 .zip#Monster Rancher Advance 2 .gba",
+      "label": "Monster Rancher Advance 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D695B1B|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Midnight Club - Street Racing.zip#Midnight Club - Street Racing.gba",
+      "label": "Midnight Club - Street Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "911BE520|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mat Hoffman's Pro BMX.zip#Mat Hoffman's Pro BMX.gba",
+      "label": "Mat Hoffman's Pro BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A333FA51|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario vs. Donkey Kong (U)(Venom).zip#Mario vs. Donkey Kong (U)(Venom).gba",
+      "label": "Mario vs. Donkey Kong (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25C394D1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Tennis Power Tour.zip#Mario Tennis Power Tour.gba",
+      "label": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA192D29|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Pinball Land.zip#Mario Pinball Land.gba",
+      "label": "Mario Pinball Land (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "70A6D2C1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Kart - Super Circuit (U)(iNFeRNO).zip#Mario Kart - Super Circuit (U)(iNFeRNO).gba",
+      "label": "Mario Kart - Super Circuit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED316E37|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Golf - Advance Tour.zip#Mario Golf - Advance Tour.gba",
+      "label": "Mario Golf - Advance Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D56C2E54|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario And Luigi Superstar Saga (U)(Rising Sun).zip#Mario And Luigi Superstar Saga (U)(Rising Sun).gba",
+      "label": "Mario & Luigi - Superstar Saga (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E718D850|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Racers 2.zip#LEGO Racers 2.gba",
+      "label": "LEGO Racers 2 (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E13B63AD|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Island 2 - The Brickster's Revenge.zip#LEGO Island 2 - The Brickster's Revenge.gba",
+      "label": "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F513CBF|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Bionicle.zip#LEGO Bionicle.gba",
+      "label": "LEGO Bionicle (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E5EC871|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jurassic Park III - Park Builder.zip#Jurassic Park III - Park Builder.gba",
+      "label": "Jurassic Park III - Park Builder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EDDDCF19|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jurassic Park III - Island Attack.zip#Jurassic Park III - Island Attack.gba",
+      "label": "Jurassic Park III - Island Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E7048D2|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jimmy Neutron - Boy Genius.zip#Jimmy Neutron - Boy Genius.gba",
+      "label": "Jimmy Neutron Boy Genius (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D3EE0C51|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jackie Chan Adventures - Legend of the Darkhand.zip#Jackie Chan Adventures - Legend of the Darkhand.gba",
+      "label": "Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "13247954|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Iridion 3D.zip#Iridion 3D.gba",
+      "label": "Iridion 3D (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34189E74|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/International Superstar Soccer.zip#International Superstar Soccer.gba",
+      "label": "International Superstar Soccer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9989CE55|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Inspector Gadget - Advance Mission.zip#Inspector Gadget - Advance Mission.gba",
+      "label": "Inspector Gadget - Advance Mission (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "406AA0C6|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).zip#Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).gba",
+      "label": "Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E9D5AD7|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Frogger's Adventures - Temple of the Frog.zip#Frogger's Adventures - Temple of the Frog.gba",
+      "label": "Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2EB9EEE6|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ESPN Final Round Golf.zip#ESPN Final Round Golf.gba",
+      "label": "ESPN Final Round Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4878BBEA|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hello Kitty - Happy Party Pals (E).zip#Hello Kitty - Happy Party Pals (E).gba",
+      "label": "Hello Kitty - Happy Party Pals (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A080C10|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harry Potter and the Sorcerer's Stone.zip#Harry Potter and the Sorcerer's Stone.gba",
+      "label": "Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F755065C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Golden Sun (U).zip#Golden Sun (U).gba",
+      "label": "Golden Sun (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E1FB68E8|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Fire Emblem - The Sacred Stones (U)(TrashMan).zip#Fire Emblem - The Sacred Stones (U)(TrashMan).gba",
+      "label": "Fire Emblem - The Sacred Stones (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A47246AE|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Final Fight One.zip#Final Fight One.gba",
+      "label": "Final Fight One (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "052C9997|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Final Fantasy Tactics Advance (U)(Eurasia).zip#Final Fantasy Tactics Advance (U)(Eurasia).gba",
+      "label": "Final Fantasy Tactics Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5645E56C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Final Fantasy IV (U).zip#Final Fantasy IV (U).gba",
+      "label": "Final Fantasy IV Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEEEBDE4|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Final Fantasy I & II - Dawn of Souls (U)(Independent).zip#Final Fantasy I & II - Dawn of Souls (U)(Independent).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B39CDAB|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ESPN X-Games Skateboarding.zip#ESPN X-Games Skateboarding.gba",
+      "label": "ESPN X-Games Skateboarding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9766B309|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ESPN Great Outdoor Games - Bass 2002.zip#ESPN Great Outdoor Games - Bass 2002.gba",
+      "label": "ESPN Great Outdoor Games - Bass 2002 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA9D815F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ecks vs Sever.zip#Ecks vs Sever.gba",
+      "label": "Ecks vs Sever (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86A861F1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Donald Duck Advance.zip#Donald Duck Advance.gba",
+      "label": "Donald Duck Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C086A5E|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dokapon.zip#Dokapon.gba",
+      "label": "Dokapon - Monster Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5617E407|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dexter's Laboratory - Deesaster Strikes.zip#Dexter's Laboratory - Deesaster Strikes.gba",
+      "label": "Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E948D412|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/David Beckham Soccer.zip#David Beckham Soccer.gba",
+      "label": "David Beckham Soccer (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9A34F49|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Castlevania - Harmony of Dissonance (U)(Independent).zip#Castlevania - Harmony of Dissonance (U)(Independent).gba",
+      "label": "Castlevania - Harmony of Dissonance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88C1B562|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Castlevania - Circle of the Moon (U)(Cezar).zip#Castlevania - Circle of the Moon (U)(Cezar).gba",
+      "label": "Castlevania - Circle of the Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CC059A4|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Castlevania - Aria of Sorrow (U)(GBATemp).zip#Castlevania - Aria of Sorrow (U)(GBATemp).gba",
+      "label": "Castlevania - Aria of Sorrow (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35536183|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Caesars Palace Advance - Millennium Gold Edition.zip#Caesars Palace Advance - Millennium Gold Edition.gba",
+      "label": "Caesars Palace Advance - Millennium Gold Edition (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D54ECE5|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Batman - Vengeance.zip#Batman - Vengeance.gba",
+      "label": "Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "783AC0C7|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Atlantis - The Lost Empire.zip#Atlantis - The Lost Empire.gba",
+      "label": "Atlantis - The Lost Empire (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8BD224C5|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Alienators - Evolution Continues.zip#Alienators - Evolution Continues.gba",
+      "label": "Alienators - Evolution Continues (USA, Europe) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D694CA4|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Mario Advance 3 - Yoshi's Island.zip#Super Mario Advance 3 - Yoshi's Island.gba",
+      "label": "Super Mario Advance 3 - Yoshi's Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40A48276|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Mario Advance 2  Super Mario World.zip#Super Mario Advance 2  Super Mario World.gba",
+      "label": "Super Mario Advance 2 - Super Mario World (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5206880A|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Mario Advance (U)(Eurasia).zip#Super Mario Advance (U)(Eurasia).gba",
+      "label": "Super Mario Advance (USA) (Demo) (Kiosk)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69924CBD|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Bust-A-Move.zip#Super Bust-A-Move.gba",
+      "label": "Super Bust-A-Move (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6BFD2915|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/summon night2.zip#summon night2.gba",
+      "label": "Summon Night - Swordcraft Story 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1EAC1F48|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Star Wars - Jedi Power Battles.zip#Star Wars - Jedi Power Battles.gba",
+      "label": "Star Wars - Jedi Power Battles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F19E156|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon Pinball - Ruby & Sapphire (U).zip#Pokemon Pinball - Ruby & Sapphire (U).gba",
+      "label": "Pokemon Pinball - Ruby & Sapphire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B992A3C0|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Metroid - Fusion (U)(GBANow).zip#Metroid - Fusion (U)(GBANow).gba",
+      "label": "Metroid Fusion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C75479C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/BackTrack.zip#BackTrack.gba",
+      "label": "Back Track (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48539B4B|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lady Sia.zip#Lady Sia.gba",
+      "label": "Lady Sia (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "958097D2|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Konami Krazy Racers.zip#Konami Krazy Racers.gba",
+      "label": "Konami Krazy Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C80D4F5C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Klonoa - Empire of Dreams.zip#Klonoa - Empire of Dreams.gba",
+      "label": "Klonoa - Empire of Dreams (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F74E1036|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/2 Games in 1 - Dr. Mario & Puzzle League.zip#2 Games in 1 - Dr. Mario & Puzzle League.gba",
+      "label": "2 Games in One! - Dr. Mario + Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C2B7349|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

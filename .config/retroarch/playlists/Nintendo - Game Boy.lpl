@@ -1,0 +1,27 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon Red.gb",
+      "label": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F7FDD53|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Yellow Version (UE) [C][!].gbc",
+      "label": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "7D527D62|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    }
+  ]
+}

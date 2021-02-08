@@ -1,0 +1,27 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo DS/Pokemon - Platinum Version (USA) (Rev 1).nds",
+      "label": "Pokemon - Platinum Version (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69D628E8|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo DS/Pokemon - HeartGold Version (USA).nds",
+      "label": "Pokemon - HeartGold Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C180A0E9|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    }
+  ]
+}

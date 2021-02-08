@@ -1,0 +1,3667 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Zoboomafoo - Playtime In Zobooland (U) [C][!].gbc",
+      "label": "Zoboomafoo - Playtime in Zobooland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38D91885|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Zebco Fishing! (U) [C][!].gbc",
+      "label": "Zebco Fishing! (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CC6B1F9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Yu-Gi-Oh! Dark Duel Stories (U) [C][!].gbc",
+      "label": "Yu-Gi-Oh! - Dark Duel Stories (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "803A56AE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Yoda Stories (U) [C][!].gbc",
+      "label": "Star Wars - Yoda Stories (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6314DA32|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Yars' Revenge - The Quotile Ultimatum (U) [C][!].gbc",
+      "label": "Yars' Revenge (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6A26444|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Xtreme Wheels (U) [C][!].gbc",
+      "label": "Xtreme Wheels (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "129465DB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Xtreme Sports (U) [C][!].gbc",
+      "label": "Xtreme Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "19828751|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Xena - Warrior Princess (U) (M6) [C][!].gbc",
+      "label": "Xena - Warrior Princess (USA, Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0DE3CE7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/X-Men - Wolverine's Rage (U) [C][!].gbc",
+      "label": "X-Men - Wolverine's Rage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12FC1A6E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/X-Men - Mutant Academy (U) [C][!].gbc",
+      "label": "X-Men - Mutant Academy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC6278A3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/WWF WrestleMania 2000 (U) [C][!].gbc",
+      "label": "WWF WrestleMania 2000 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FCBA12AE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/WWF Betrayal (U) [C][!].gbc",
+      "label": "WWF Betrayal (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C28BCB5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/WWF Attitude (U) [C][!].gbc",
+      "label": "WWF Attitude (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5FDF68A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Worms Armageddon (U) (M3) [C][!].gbc",
+      "label": "Worms Armageddon (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E241EDDE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/World Destruction League - Thunder Tanks (U) (M3) [C][!].gbc",
+      "label": "WDL - World Destruction League - Thunder Tanks (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A0BF4D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Woody Woodpecker Racing (U) [C][!].gbc",
+      "label": "Woody Woodpecker Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0424CF43|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Winnie the Pooh - Adventures in the 100 Acre Wood (U) [C][!].gbc",
+      "label": "Winnie the Pooh - Adventures in the 100 Acre Wood (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "066A2196|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wings of Fury (U) [C][!].gbc",
+      "label": "Wings of Fury (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C94A413A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Yogi Bear - Great Balloon Blast (U) [C][!].gbc",
+      "label": "Yogi Bear - Great Balloon Blast (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F817E978|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/X-Men - Mutant Wars (U) [C][!].gbc",
+      "label": "X-Men - Mutant Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "921999E2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Woody Woodpecker (U) [C][!].gbc",
+      "label": "Woody Woodpecker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD2D1F8B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wild Thornberrys, The - Rambler (U) [C][!].gbc",
+      "label": "Wild Thornberrys, The - Rambler (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0E1465CB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tony Hawk's Pro Skater 2 (U) [C][!].gbc",
+      "label": "Tony Hawk's Pro Skater 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C27C61F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tom Clancy's Rainbow Six (U) (M3) [C][!].gbc",
+      "label": "Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E72F2683|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Test Drive Le Mans (U) (M3) [C][!].gbc",
+      "label": "Test Drive Le Mans (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E6D6AC8F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Survival Kids (U) [C][!].gbc",
+      "label": "Survival Kids (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C46ABA56|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Who Wants to Be a Millionaire - 2nd Edition (U) [C][!].gbc",
+      "label": "Who Wants to Be a Millionaire - 2nd Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6830B7AF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wendy - Every Witch Way (U) [C][!].gbc",
+      "label": "Wendy - Every Witch Way (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4AC6907B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/WCW Mayhem (U) [C][!].gbc",
+      "label": "WCW Mayhem (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F8620D1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Warriors of Might and Magic (U) (M3) [C][!].gbc",
+      "label": "Warriors of Might and Magic (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF9F5BEA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Warlocked (U) [C][!].gbc",
+      "label": "Warlocked (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFA0DF0F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wario Land II (U) [C][!].gbc",
+      "label": "Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "047BDF80|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wario Land 3 (JU) (M2) [C][!].gbc",
+      "label": "Wario Land 3 (World) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "480D0259|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Walt Disney World Quest - Magical Racing Tour (U) [C][!].gbc",
+      "label": "Walt Disney World Quest - Magical Racing Tour (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56BEB694|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Wacky Races (U) (M3) [C][!].gbc",
+      "label": "Wacky Races (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "543ABB1B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Vigilante 8 (U) [C][!].gbc",
+      "label": "Vigilante 8 (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1A188DC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Vegas Games (U) [C][!].gbc",
+      "label": "Vegas Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40B5EA96|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/V-Rally - Championship Edition (U) (M3) [C][!].gbc",
+      "label": "V-Rally - Edition 99 (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA300C6C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Uno (U) [C][!].gbc",
+      "label": "Uno (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F026D509|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ultimate Surfing (U) [C][!].gbc",
+      "label": "Ultimate Surfing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E84DF1F0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ultimate Paint Ball (U) [C][!].gbc",
+      "label": "Ultimate Paintball (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6DCFDFE2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ultimate Fighting Championship (U) [C][!].gbc",
+      "label": "Ultimate Fighting Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5F036CE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tyco RC - Racin' Ratz (U) [C][!].gbc",
+      "label": "Racin' Ratz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6881014|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tweety's High-Flying Adventure (U) [C].gbc",
+      "label": "Tweety's High-Flying Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E226396|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Turok 3 - Shadow of Oblivion (U) (M4) [C][!].gbc",
+      "label": "Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D48765E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Turok 2 - Seeds of Evil (U) (M4) [C][!].gbc",
+      "label": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EDA6A3A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Turok - Rage Wars (UE) (M4) [C][!].gbc",
+      "label": "Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "786B5AB4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Trouballs (U) [C][!].gbc",
+      "label": "Trouballs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "260EED04|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Triple Play 2001 (U) [C][!].gbc",
+      "label": "Triple Play 2001 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74E04C07|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Trick Boarder (U) [C][!].gbc",
+      "label": "Trick Boarder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E856DC3D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Toy Story Racer (U) [C][!].gbc",
+      "label": "Toy Story Racer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D911DD97|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Toy Story 2 (U) [C][!].gbc",
+      "label": "Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47AECB95|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Towers - Lord Baniff's Deceit (U) [C][!].gbc",
+      "label": "Towers - Lord Baniff's Deceit (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B9B2468|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Top Gear Pocket 2 (U) [C][!].gbc",
+      "label": "Top Gear Pocket 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFB87F80|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Top Gear Pocket (U) [C][!].gbc",
+      "label": "Top Gear Pocket (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84499FC1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Toonsylvania (U) [C][!].gbc",
+      "label": "Toonsylvania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "096D0C27|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Toobin' (U) [C][!].gbc",
+      "label": "Toobin' (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3D6B598C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tony Hawk's Pro Skater 3 (U) [C][!].gbc",
+      "label": "Tony Hawk's Pro Skater 3 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FD5290A1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tony Hawk's Pro Skater (U) [C][!].gbc",
+      "label": "Tony Hawk's Skateboarding ~ Tony Hawk's Pro Skater (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D8BB5C4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tonka Raceway (U) (Rumble) [C][!].gbc",
+      "label": "Tonka Raceway (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5AF4B28|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tonka Construction Site (U) [C].gbc",
+      "label": "Tonka Construction Site (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8142A3E8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tomb Raider - Curse of the Sword (U) [C][!].gbc",
+      "label": "Tomb Raider - Curse of the Sword (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02C1035A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tomb Raider (UE) (M5) [C][!].gbc",
+      "label": "Tomb Raider (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2988FC78|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tom and Jerry in Mouse Attacks! (U) [C][!].gbc",
+      "label": "Tom and Jerry in - Mouse Attacks! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38CE3F76|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tom and Jerry - Mouse Hunt (U) [C][!].gbc",
+      "label": "Tom and Jerry - Mouse Hunt (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5FC6BEC0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tom and Jerry (U) [C][!].gbc",
+      "label": "Tom and Jerry (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B97C0BD9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Toki Tori (U) (M5) [C][!].gbc",
+      "label": "Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A0F9289|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/TOCA Touring Car Championship (U) [C][!].gbc",
+      "label": "TOCA Touring Car Championship (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B509892B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/TNN Outdoors Fishing Champ (U) [C][!].gbc",
+      "label": "TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00A14D18|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Titus the Fox (U) [C][!].gbc",
+      "label": "Titus the Fox (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA70D28F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tiny Toon Adventures - Buster Saves the Day (U) [C][!].gbc",
+      "label": "Tiny Toon Adventures - Buster Saves the Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "800EFB3D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tiger Woods PGA Tour 2000 (U) [C][!].gbc",
+      "label": "Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6DFB1D9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Three Lions (U) (M7) [C][!].gbc",
+      "label": "Three Lions (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CBEA1AA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tetris DX (JU) [C][!].gbc",
+      "label": "Tetris DX (World) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69989152|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Test Drive Off-Road 3 (U) [C][!].gbc",
+      "label": "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FDD5B9E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Test Drive Cycles (U) [C][!].gbc",
+      "label": "Test Drive Cycles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E32BB06F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Test Drive 6 (U) [C][!].gbc",
+      "label": "Test Drive 6 (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CE00547|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Test Drive 2001 (U) [C][!].gbc",
+      "label": "Test Drive 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB894EC7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tech Deck Skateboarding (U) [C][!].gbc",
+      "label": "Tech Deck Skateboarding (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C07EBE70|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Tazmanian Devil - Munching Madness (U) (M5) [C][!].gbc",
+      "label": "Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3611D0D8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sylvester and Tweety (U) (M3) [C][!].gbc",
+      "label": "Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "698D7BE4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc",
+      "label": "Super Mario Bros. Deluxe (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90AB047B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/SpongeBob SquarePants - Legend of the Lost Spatula (U) [C][!].gbc",
+      "label": "SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81230564|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Spider-Man 2 - The Sinister Six (U) [C][!].gbc",
+      "label": "Spider-Man 2 - The Sinister Six (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A7FAACCF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Spider-Man (U) [C][!].gbc",
+      "label": "Spider-Man (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34E2B3BA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Speedy Gonzales - Aztec Adventure (U) [C][!].gbc",
+      "label": "Speedy Gonzales - Aztec Adventure (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE82AFA4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Spawn (U) [C][!].gbc",
+      "label": "Spawn (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72FCB0AD|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Space Marauder (U) [C][!].gbc",
+      "label": "Space Marauder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F83B35E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Space Invasion (Unl) [C][!].gbc",
+      "label": "Space Invasion (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B2D9868|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Space Invasion & Karate Joe (Unl) [C][!].gbc",
+      "label": "Space Invasion & Karate Joe (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A184C55|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Space Invaders (U) [C][!].gbc",
+      "label": "Space Invaders (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DAB7460C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Snow White and the Seven Dwarfs (U) [C].gbc",
+      "label": "Snow White and the Seven Dwarfs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8DD38534|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Snoopy Tennis (U) (M3) [C][!].gbc",
+      "label": "Snoopy Tennis (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D882ECCC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Smurfs Nightmare, The (U) [C][!].gbc",
+      "label": "Smurfs Nightmare, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B50CAFE4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Simpsons, The - Night of the Living Treehouse of Horror (U) [C][!].gbc",
+      "label": "Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EBAF4888|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Shrek - Fairy Tale Freakdown (U) (M6) [C][!].gbc",
+      "label": "Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "387E6459|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Shaun Palmer's Pro Snowboarder (U) [C][!].gbc",
+      "label": "Shaun Palmer's Pro Snowboarder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "709CDA93|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Shantae (U) [C][!].gbc",
+      "label": "Shantae (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E994B59B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Shanghai Pocket (U) (V1.1) [C][!].gbc",
+      "label": "Shanghai Pocket (Europe) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D8FAC36C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Shamus (U) [C][!].gbc",
+      "label": "Shamus (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFB9196D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sgt. Rock - On The Front Line (U) [C][!].gbc",
+      "label": "Sgt. Rock - On the Frontline (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "521A2F77|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sesame Street Sports (U) [C].gbc",
+      "label": "Sesame Street Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4ED4AAFA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Scooby-Doo! - Classic Creep Capers (U) [C][!].gbc",
+      "label": "Scooby-Doo! - Classic Creep Capers (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3704755|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/San Francisco Rush 2049 (U) [C][!].gbc",
+      "label": "San Francisco Rush 2049 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF368F16|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Roadsters '98 (U) [C][!].gbc",
+      "label": "Roadsters '98 (USA) (Proto) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE2995A1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rampage 2 - Universal Tour (U) [C][!].gbc",
+      "label": "Rampage 2 - Universal Tour (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20B86F1E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Puzzled (U) [C][!].gbc",
+      "label": "Puzzled (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F03FFDAF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Powerpuff Girls, The - Battle Him (U) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Battle Him (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D8455984|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pong - The Next Level (U) [C][!].gbc",
+      "label": "Pong - The Next Level (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "476BD39D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pac-Man Special Color Edition (U) [C][!].gbc",
+      "label": "Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3485EF86|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NHL 2000 (U) [C][!].gbc",
+      "label": "NHL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB625129|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sabrina - The Animated Series - Zapped! (U) [C][!].gbc",
+      "label": "Sabrina - The Animated Series - Zapped! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D39A9B0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Sabrina - The Animated Series - Spooked! (U) [C][!].gbc",
+      "label": "Sabrina - The Animated Series - Spooked! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2CF48188|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rugrats Movie, The (U) [C][!].gbc",
+      "label": "Rugrats Movie, The (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4091600|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rugrats in Paris - The Movie (U) [C][!].gbc",
+      "label": "Rugrats in Paris - The Movie (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B195237|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rugrats - Totally Angelica (U) [C][!].gbc",
+      "label": "Rugrats - Totally Angelica (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC6195EF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rugrats - Time Travelers (U) [C][!].gbc",
+      "label": "Rugrats - Time Travelers (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C743F03|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Roswell Conspiracies - Aliens, Myths & Legends (U) (M3) [C][!].gbc",
+      "label": "Roswell Conspiracies - Aliens, Myths & Legends (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1F5EC131|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ronaldo V.Soccer (U) (M4) [C][!].gbc",
+      "label": "Ronaldo V-Soccer (USA) (En,Fr,Es,Pt) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0204F10|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rocky Mountain Trophy Hunter (U) [C][!].gbc",
+      "label": "Rocky Mountain Trophy Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9AA5B021|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rocket Power - Gettin' Air (U) [C][!].gbc",
+      "label": "Rocket Power - Gettin' Air (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7025EB63|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Robopon - Sun Version (U) [C][!].gbc",
+      "label": "Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "32CAEF11|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Robocop (U) (M6) [C][!].gbc",
+      "label": "RoboCop (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C6423E2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Road Rash (U) [C][!].gbc",
+      "label": "Road Rash (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11025EEB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Road Champs - BXS Stunt Biking (U) [C][!].gbc",
+      "label": "Road Champs - BXS Stunt Biking (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98C59706|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rhino Rumble (U) [C][!].gbc",
+      "label": "Rhino Rumble (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "73160E05|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Revelations - The Demon Slayer (U) [C][!].gbc",
+      "label": "Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1A65D74|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Return of the Ninja (U) [C][!].gbc",
+      "label": "Return of the Ninja (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A07DA702|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Resident Evil Gaiden (U) [C][!].gbc",
+      "label": "Resident Evil Gaiden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8C5021B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rescue Heroes - Fire Frenzy (U) [C][!].gbc",
+      "label": "Rescue Heroes - Fire Frenzy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77A4DC63|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ready 2 Rumble Boxing (U) [C][!].gbc",
+      "label": "Ready 2 Rumble Boxing (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "345E20A4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Razor Freestyle Scooter (U) [C][!].gbc",
+      "label": "Razor Freestyle Scooter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C201286|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rayman 2 - The Great Escape (U) (M5) [C][!].gbc",
+      "label": "Rayman 2 (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6F5C315D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rayman (U) (M6) [C][!].gbc",
+      "label": "Rayman (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EDA12F0D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rats! (U) (M2) [C][!].gbc",
+      "label": "Rats! (USA) (En,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17635AD1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rampart (U) [C][!].gbc",
+      "label": "Rampart (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5AEED2E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Rampage - World Tour (U) [C][!].gbc",
+      "label": "Rampage - World Tour (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B029017F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Race Time (Unl) [C][!].gbc",
+      "label": "Race Time (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "599C867D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/R-Type DX (U) [C][!].gbc",
+      "label": "R-Type DX (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC1D4089|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Quest RPG - Brian's Journey (U) [C][!].gbc",
+      "label": "Quest - Brian's Journey (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9AC27645|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Quest for Camelot (U) (M3) [C][!].gbc",
+      "label": "Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D903DB7D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Quest - Fantasy Challenge (U) [C][!].gbc",
+      "label": "Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98285775|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Q-bert (U) [C][!].gbc",
+      "label": "Q-bert (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90F46D7E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Puzzle Master (U) [C][!].gbc",
+      "label": "Puzzle Master (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "06EB7A01|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Project S-11 (U) [C][!].gbc",
+      "label": "Project S-11 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20CEE2E8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pro Pool (U) (M3) [C][!].gbc",
+      "label": "Pro Pool (USA) (En,Fr,De) (Beta)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04D3031A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pro Darts (U) [C][!].gbc",
+      "label": "Pro Darts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "834A72C0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Powerpuff Girls, The - Paint the Townsville Green (U) (V1.2) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "443367AE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Powerpuff Girls, The - Bad Mojo Jojo (U) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Bad Mojo Jojo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "834CAF7A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Power Spike - Pro Beach Volleyball (U) [C][!].gbc",
+      "label": "Power Spike - Pro Beach Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE57D1C3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Power Rangers - Time Force (U) [C][!].gbc",
+      "label": "Saban's Power Rangers - Time Force (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17E51443|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Power Rangers - Lightspeed Rescue (U) [C][!].gbc",
+      "label": "Saban's Power Rangers - Lightspeed Rescue (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "99869172|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Power Quest (U) (M6) [C][!].gbc",
+      "label": "Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DAD6F6B4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Portal Runner (U) [C][!].gbc",
+      "label": "Portal Runner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "913AC306|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pooh and Tigger's Hunny Safari (U) [C][!].gbc",
+      "label": "Pooh and Tigger's Hunny Safari (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "622690DA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Silver Version (UE) [C][!].gbc",
+      "label": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AD48636|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Gold Version (UE) [C][!].gbc",
+      "label": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6BDE3C3E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon - Crystal Version (UE) (V1.1) [C][!].gbc",
+      "label": "Pokemon - Crystal Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3358E30A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pocket Soccer (U) (M6) [C][!].gbc",
+      "label": "Pocket Soccer (Europe) (En,Fr,De,Es,It,Pt)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8F5824F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pocket Smash Out (Unl) [C][!].gbc",
+      "label": "Pocket Smash Out (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CBD14276|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pocket Smash Out & Race Time (Unl) [C][!].gbc",
+      "label": "Pocket Smash Out & Race Time (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0AD5B775|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pocket Bowling (U) [C][!].gbc",
+      "label": "Pocket Bowling (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3ED30908|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pocket Bomberman (U) [C][!].gbc",
+      "label": "Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA2A66E9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Planet of the Apes (U) (M6) [C][!].gbc",
+      "label": "Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91D7CCCA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Perfect Dark (U) (M5) [C][!].gbc",
+      "label": "Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0601BEF6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Paperboy (U) [C][!].gbc",
+      "label": "Paperboy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0A98305|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Painter (Unl) [C][!].gbc",
+      "label": "Painter (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F4801F21|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NSYNC - Get to the Show (U) [C][!].gbc",
+      "label": "NSYNC - Get to the Show (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F770878B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Nicktoons' Racing (U) [C][!].gbc",
+      "label": "Nicktoons Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3F079D4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NHL Blades of Steel 2000 (U) [C][!].gbc",
+      "label": "NHL Blades of Steel 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8BC5B62A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NHL Blades of Steel (U) [C][!].gbc",
+      "label": "NHL Blades of Steel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A890ADB2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NFL Blitz 2001 (U) [C][!].gbc",
+      "label": "NFL Blitz 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "61C653AE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NFL Blitz 2000 (U) [C][!].gbc",
+      "label": "NFL Blitz 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "090C7DAC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NFL Blitz (U) (V1.1) [C][!].gbc",
+      "label": "NFL Blitz (USA, Europe) (Rev 1) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "107D734B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/New Batman Adventures, The - Chaos in Gotham (U) [C][!].gbc",
+      "label": "Batman - Chaos in Gotham (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B241A4F3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/New Adventures of Mary-Kate & Ashley, The (U) [C][!].gbc",
+      "label": "New Adventures of Mary-Kate & Ashley, The (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCA4474E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA Showtime - NBA on NBC (U) [C][!].gbc",
+      "label": "NBA Show Time - NBA on NBC (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7AE23888|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA Jam 2001 (U) [C][!].gbc",
+      "label": "NBA Jam 2001 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3AA75F1C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA Jam '99 (UE) [C][!].gbc",
+      "label": "NBA Jam 99 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84BE0EED|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA In The Zone 2000 (U) [C][!].gbc",
+      "label": "NBA in the Zone 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FDB38C49|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA In The Zone (U) [C][!].gbc",
+      "label": "NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE949F74|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA Hoopz (U) [C][!].gbc",
+      "label": "NBA Hoopz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5011A419|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NBA 3 on 3 featuring Kobe Bryant (U) [C][!].gbc",
+      "label": "NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "001F4754|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NASCAR Racers (U) [C][!].gbc",
+      "label": "NASCAR Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F39A5C4F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NASCAR Heat (U) [C][!].gbc",
+      "label": "NASCAR Heat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA83B37C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/NASCAR Challenge (U) [C][!].gbc",
+      "label": "NASCAR Challenge (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39C6B868|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Muppets, The (U) [C][!].gbc",
+      "label": "Jim Henson's Muppets (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C476C6F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mummy, The (U) [C][!].gbc",
+      "label": "Mummy, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6BA9F27|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mummy Returns, The (U) [C][!].gbc",
+      "label": "Mummy Returns, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C997F45B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/MTV Sports - T.J. Lavin's Ultimate BMX (U) [C][!].gbc",
+      "label": "MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "904663AF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/MTV Sports - Skateboarding featuring Andy MacDonald (U) [C][!].gbc",
+      "label": "MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "744561F3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/MTV Sports - Pure Ride (U) [C][!].gbc",
+      "label": "MTV Sports - Pure Ride (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7B2354B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ms. Pac-Man Special Color Edition (U) [C][!].gbc",
+      "label": "Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "103E212D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mickey's Speedway USA (U) (M4) [C][!].gbc",
+      "label": "Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11763934|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mary-Kate & Ashley - Pocket Planner (U) [C][!].gbc",
+      "label": "Mary-Kate and Ashley - Pocket Planner (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84A880B9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lion King, The - Simba's Mighty Adventure (U) [C][!].gbc",
+      "label": "Lion King, The - Simba's Mighty Adventure (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5B4B7BB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Alpha Team (U) [C][!].gbc",
+      "label": "LEGO Alpha Team (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D7EC41B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Laura (U) [C][!].gbc",
+      "label": "Laura (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2BFF286|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mr. Driller (U) [C][!].gbc",
+      "label": "Mr. Driller (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "492C0EBF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mr Nutz (U) (M3) [C][!].gbc",
+      "label": "Mr. Nutz (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59F67529|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Motocross Maniacs 2 (U) [C][!].gbc",
+      "label": "Motocross Maniacs 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17D27FA9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mortal Kombat 4 (U) [C][!].gbc",
+      "label": "Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EB71448|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Moon Patrol & Spy Hunter (U) [C][!].gbc",
+      "label": "Midway presents Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F40199C9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Moomin's Tale (U) (M3) [C][!].gbc",
+      "label": "Moomin's Tale (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45543BA2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Montezuma's Return (U) (M2) [C][!].gbc",
+      "label": "Montezuma's Return! (USA) (En,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE04772F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Monsters, Inc. (U) [C][!].gbc",
+      "label": "Monsters, Inc. (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "183DBB31|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Monster Rancher Explorer (U) [C][!].gbc",
+      "label": "Monster Rancher Explorer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C35E8F0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Monster Rancher Battle Card GB (U) [C][!].gbc",
+      "label": "Monster Rancher Battle Card GB (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50DDF120|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Monopoly (U) [C][!].gbc",
+      "label": "Monopoly (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E559A717|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mission Impossible (U) (M3) [C][!].gbc",
+      "label": "Mission - Impossible (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41230D11|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Missile Command (U) [C][!].gbc",
+      "label": "Missile Command (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47543C51|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Millenium Winter Sports (U) [C][!].gbc",
+      "label": "Millennium Winter Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B57DABAE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Microsoft Puzzle Collection (U) [C].gbc",
+      "label": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0777B8D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Microsoft Pinball Arcade (U) [C][!].gbc",
+      "label": "Microsoft Pinball Arcade (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "504F55C5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Microsoft Entertainment Pack (U) [C][!].gbc",
+      "label": "Microsoft - The Best of Entertainment Pack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2D88CFA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Micro Machines V3 (U) [C][!].gbc",
+      "label": "Micro Machines V3 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8064453|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Micro Machines 1 and 2 - Twin Turbo (U) [C][!].gbc",
+      "label": "Micro Machines 1 and 2 - Twin Turbo (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DD337EB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Metal Gear Solid (U) [C][!].gbc",
+      "label": "Metal Gear Solid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04B0C5D6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Men In Black 2 - The Series (U) (M3) [C][!].gbc",
+      "label": "Men in Black 2 - The Series (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B63F36F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Men In Black - The Series (U) [C][!].gbc",
+      "label": "Men in Black - The Series (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65B8B343|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Megaman Xtreme 2 (U) [C][!].gbc",
+      "label": "Mega Man Xtreme 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FEDB6D8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Megaman Xtreme (U) [C][!].gbc",
+      "label": "Mega Man Xtreme (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3A4D94D5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Matchbox - Emergency Patrol (U) [C][!].gbc",
+      "label": "Matchbox Emergency Patrol (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3F23D7E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mat Hoffman's Pro BMX (U) [C][!].gbc",
+      "label": "Mat Hoffman's Pro BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "515C1459|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mask of Zorro, The (U) [C][!].gbc",
+      "label": "Mask of Zorro, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C92AD12|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mary-Kate & Ashley - Winners Circle (U) [C][!].gbc",
+      "label": "Mary-Kate and Ashley - Winners Circle (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35D6DDCC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mary-Kate & Ashley - Get a Clue! (U) [C][!].gbc",
+      "label": "Mary-Kate & Ashley - Get a Clue! (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46FAA730|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mary-Kate & Ashley - Crush Course (U) [C][!].gbc",
+      "label": "Mary-Kate and Ashley - Crush Course (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69DB3CD8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Marvin Strikes Back! (U) (M3) [C].gbc",
+      "label": "Marvin Strikes Back! (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11B4788C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Tennis (U) [C][!].gbc",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A781C63C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mario Golf (U) [C][!].gbc",
+      "label": "Mario Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "905AD0CB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Marble Madness (U) [C][!].gbc",
+      "label": "Marble Madness (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EC78785|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Magical Tetris Challenge (U) [C][!].gbc",
+      "label": "Magical Tetris Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F53CF66C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Magical Drop (U) [C][!].gbc",
+      "label": "Magical Drop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4188A79|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Magi Nation (U) [C][!].gbc",
+      "label": "Magi Nation (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5042450B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Madden NFL 2002 (U) [C][!].gbc",
+      "label": "Madden NFL 2002 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE1338D2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Madden NFL 2001 (U) [C][!].gbc",
+      "label": "Madden NFL 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "160E9E3C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Madden NFL 2000 (U) [C][!].gbc",
+      "label": "Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "482944AA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/M&M's Minis Madness (U) [C][!].gbc",
+      "label": "M&M's Minis Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8649D7A0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lufia - The Legend Returns (U) [C][!].gbc",
+      "label": "Lufia - The Legend Returns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5BAE3C04|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lucky Luke (U) (M4) [C][!].gbc",
+      "label": "Lucky Luke (USA) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5E29F34|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Looney Tunes Racing (U) (M6) [C][!].gbc",
+      "label": "Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "66792CDE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Looney Tunes Collector - Alert! (U) (M3) [C][!].gbc",
+      "label": "Looney Tunes Collector - Alert! (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54509D24|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Looney Tunes (U) [C][!].gbc",
+      "label": "Looney Tunes (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EF3DDD7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Logical (U) (THQ) [C][!].gbc",
+      "label": "Logical (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EEE76C4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Logical (U) (Sunsoft) [C][!].gbc",
+      "label": "Logical (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D67275F7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Little Nicky (U) [C][!].gbc",
+      "label": "Little Nicky (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27310900|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Little Mermaid II, The - Pinball Frenzy (U) (M5) [C][!].gbc",
+      "label": "Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "364F9CCD|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Little Magic (J) [C][T+Eng1.0_SGST].gbc",
+      "label": "Little Magic (Japan) [T-En by Some Good Shit Translations]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1EA3F69|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lil' Monster (U) [C][!].gbc",
+      "label": "Lil' Monster (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6859B34|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Lemmings & Oh No! More Lemmings (U) [C][!].gbc",
+      "label": "Lemmings & Oh No! More Lemmings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97E5CE2F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Stunt Rally (U) [C][!].gbc",
+      "label": "LEGO Stunt Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA084760|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Racers (U) (M3) [C][!].gbc",
+      "label": "LEGO Racers (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6865B09|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/LEGO Island 2 - The Brickster's Revenge (U) (M3) [C][!].gbc",
+      "label": "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B14FA7E7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Legend of Zelda, The - Oracle of Seasons (U) [C][!].gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7E9F5D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Legend of Zelda, The - Oracle of Ages (U) [C][!].gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3800A387|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "06887A34|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Legend of the River King GB (U) [C][!].gbc",
+      "label": "Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7E821F47|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Legend of the River King 2 (U) [C][!].gbc",
+      "label": "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "840FD525|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ken Griffey Jr.'s Slugfest (U) [C][!].gbc",
+      "label": "Ken Griffey Jr.'s Slugfest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E64D19C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Kelly Club - Clubhouse Fun (U) [C][!].gbc",
+      "label": "Kelly Club (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E39EBC4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Karate Joe (Unl) [C][!].gbc",
+      "label": "Karate Joe (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8A54E29|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jungle Book, The - Mowgli's Wild Adventure (U) (M5) [C][!].gbc",
+      "label": "Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B6B755F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/JumpStart Dino Adventure - Field Trip (U) [C].gbc",
+      "label": "JumpStart Dino Adventure - Field Trip (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D50772D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jeremy McGrath Supercross 2000 (U) [C][!].gbc",
+      "label": "Jeremy McGrath Supercross 2000 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0F9ABE6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Jeff Gordon XS Racing (U) [C][!].gbc",
+      "label": "Jeff Gordon XS Racing (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A41ED926|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/International Track & Field (U) [C][!].gbc",
+      "label": "International Track & Field (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "803D5D57|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/International Superstar Soccer 2000 (U) [C][!].gbc",
+      "label": "International Superstar Soccer 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8FA7203|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/International Rally (U) [C][!].gbc",
+      "label": "International Rally (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B85FD752|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Inspector Gadget - Operation Madkactus (U) [C][!].gbc",
+      "label": "Inspector Gadget - Operation Madkactus (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AF0B489|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Indiana Jones and the Infernal Machine (U) (M3) [C][!].gbc",
+      "label": "Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7FFF1142|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Joust & Defender (U) [C][!].gbc",
+      "label": "Midway presents Arcade Hits - Joust & Defender (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C1ECECB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/International Superstar Soccer '99 (U) [C][!].gbc",
+      "label": "International Superstar Soccer 99 (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B76D115|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hoyle Casino (U) [C][!].gbc",
+      "label": "Hoyle Casino (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "413473B0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Heroes of Might and Magic (U) (M3) [C][!].gbc",
+      "label": "Heroes of Might and Magic (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB0672A6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Gex - Enter the Gecko (U) [C][!].gbc",
+      "label": "Gex - Enter the Gecko (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCCC7514|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/F-1 World Grand Prix II (U) (M4) [C][!].gbc",
+      "label": "F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "482E10C5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/E.T. The Extra Terrestrial - Escape from Planet Earth (U) [C][!].gbc",
+      "label": "E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "086106DE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hoyle Card Games (U) [C][!].gbc",
+      "label": "Hoyle Card Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD5D3713|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hot Wheels - Stunt Track Driver (U) [C][!].gbc",
+      "label": "Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72A5E820|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hollywood Pinball (UE) (M4) [C][!].gbc",
+      "label": "Hollywood Pinball (Europe) (En,Fr,De,It) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8BD1F635|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hole in One Golf (U) [C][!].gbc",
+      "label": "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27A53965|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hexcite - The Shapes of Victory (U) [C][!].gbc",
+      "label": "Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84084E5F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Heroes of Might and Magic II (U) (M3) [C][!].gbc",
+      "label": "Heroes of Might and Magic II (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53156D4D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hercules - The Legendary Journeys (U) (M6) [C][!].gbc",
+      "label": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0EDE71F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hello Kitty's Cube Frenzy (U) [C][!].gbc",
+      "label": "Hello Kitty's Cube Frenzy (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "937729F6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harvest Moon GB (U) [C][!].gbc",
+      "label": "Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB5738A1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harvest Moon 3 GBC (U) [C][!].gbc",
+      "label": "Harvest Moon 3 GBC (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0D67417|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harvest Moon 2 GBC (U) [C][!].gbc",
+      "label": "Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08906220|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harry Potter and The Sorcerer's Stone (UE) (M13) [C][!].gbc",
+      "label": "Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FD8B7C5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harry Potter and The Chamber of Secrets (UE) (M10) [C][!].gbc",
+      "label": "Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "136E9D0C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Harley-Davidson - Race Across America (U) [C][!].gbc",
+      "label": "Harley-Davidson Motor Cycles - Race Across America (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "644BAC84|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Hang Time Basketball (Unl) [C][!].gbc",
+      "label": "Hang Time Basketball (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3207B7D9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Grinch, The (U) [C][!].gbc",
+      "label": "Grinch, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5A47896|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Grand Theft Auto 2 (U) [C][!].gbc",
+      "label": "Grand Theft Auto 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "68610203|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Grand Theft Auto (U) [C][!].gbc",
+      "label": "Grand Theft Auto (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "924DE366|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Gold and Glory - The Road to El Dorado (U) [C][!].gbc",
+      "label": "Gold and Glory - The Road to El Dorado (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7D49490|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Godzilla - The Series - Monster Wars (U) (M3) [C][!].gbc",
+      "label": "Godzilla - The Series - Monster Wars (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E7EBB394|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Gobs of Games (U) (M3) [C][!].gbc",
+      "label": "Gobs of Games (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E61C391|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ghosts 'N Goblins (U) [C][!].gbc",
+      "label": "Ghosts'n Goblins (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE024C23|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Gex 3 - Deep Cover Gecko (U) [C][!].gbc",
+      "label": "Gex 3 - Deep Pocket Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85A98C7D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Frogger 2 (U) [C][!].gbc",
+      "label": "Frogger 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A2666AA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Frogger (U) [C][!].gbc",
+      "label": "Frogger (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF46EA77|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Formula One 2000 (U) [C][!].gbc",
+      "label": "Formula One 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "703C057F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Force 21 (U) (M3) [C][!].gbc",
+      "label": "Force 21 (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DCD0A0A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Flintstones, The - Burgertime in Bedrock (U) [C][!].gbc",
+      "label": "Flintstones, The - Burgertime in Bedrock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14D8CC5D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/FIFA 2000 (U) [C][!].gbc",
+      "label": "FIFA 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E6BC2E8C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/F.A. Premier League Stars 2001, The (U) [C][!].gbc",
+      "label": "F.A. Premier League Stars 2001, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E3844FB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/F-18 Thunder Strike (U) [C][!].gbc",
+      "label": "F-18 Thunder Strike (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "410FA858|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/F-1 World Grand Prix (U) (M4) [C][!].gbc",
+      "label": "F-1 World Grand Prix (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D9A9182|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Extreme Sports with The Berenstain Bears (U) (M5) [C][!].gbc",
+      "label": "Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C0E7B44|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Evel Knievel (U) [C][!].gbc",
+      "label": "Evel Knievel (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51E951B5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ESPN National Hockey Night (U) [C][!].gbc",
+      "label": "ESPN National Hockey Night (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "600F61F9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ESPN International Track & Field (U) [C][!].gbc",
+      "label": "ESPN International Track & Field (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4005D541|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Emperor's New Groove, The (U) [C][!].gbc",
+      "label": "Emperor's New Groove, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EBAD539|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Elmo's ABCs (U) [C][!].gbc",
+      "label": "Sesame Street - Elmo's ABCs (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CC1FB2A9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Elmo's 123s (U) [C][!].gbc",
+      "label": "Sesame Street - Elmo's 123s (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1833FB38|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Elmo in Grouchland (U) [C][!].gbc",
+      "label": "Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C4C2A5F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ECW Hardcore Revolution (U) [C][!].gbc",
+      "label": "ECW Hardcore Revolution (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "484EBA10|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Earthworm Jim - Menace 2 the Galaxy (U) [C][!].gbc",
+      "label": "Earthworm Jim - Menace 2 the Galaxy (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E65DAAF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/E.T. The Extra-Terrestrial and the Cosmic Garden (U) [C][!].gbc",
+      "label": "E.T. - The Extra-Terrestrial and the Cosmic Garden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "32C87958|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/E.T. The Extra Terrestrial - Digital Companion (U) [C].gbc",
+      "label": "E.T. - The Extra-Terrestrial - Digital Companion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84872999|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dukes of Hazzard, The - Racing for Home (U) [C][!].gbc",
+      "label": "Dukes of Hazzard, The - Racing for Home (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB08DCEB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Duke Nukem (U) (M5) [C][!].gbc",
+      "label": "Duke Nukem (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "846FC830|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dropzone (U) [C][!].gbc",
+      "label": "Dropzone (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E71B67E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Driver - You Are The Wheelman (U) (M5) [C][!].gbc",
+      "label": "Driver - You are the Wheelman (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D4C7F6DF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon's Lair (U) (M6) [C][!].gbc",
+      "label": "Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF076CA5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Warrior Monsters 2 - Tara's Adventure (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35EC5FB2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Warrior Monsters 2 - Cobi's Journey (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB7BFDD5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Warrior Monsters (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E56C35B1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Warrior III (U) [C][!].gbc",
+      "label": "Dragon Warrior III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FD9C59C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Warrior I & II (U) [C][!].gbc",
+      "label": "Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71D693DA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Tales - Dragon Wings (U) [C][!].gbc",
+      "label": "Dragon Tales - Dragon Wings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "191D31EC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Tales - Dragon Adventures (U) [C][!].gbc",
+      "label": "Dragon Tales - Dragon Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE390609|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Dance (U) [C][!].gbc",
+      "label": "Dragon Dance (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0602DBE1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dragon Ball Z - Legendary Super Warriors (U) [C].gbc",
+      "label": "Dragon Ball Z - Legendary Super Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "025AA88A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dracula - Crazy Vampire (U) [C][!].gbc",
+      "label": "Dracula - Crazy Vampire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "283742E4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Doug's Big Game (U) [C][!].gbc",
+      "label": "Doug's Big Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08E3D065|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Donkey Kong Country (UE) (M5) [C][!].gbc",
+      "label": "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1743477|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Donald Duck - Goin' Quackers (U) (M5) [C][!].gbc",
+      "label": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4685909B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dogz - Your Virtual Petz Palz (U) [C][!].gbc",
+      "label": "Dogz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A8397183|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Diva Starz - Mall Mania (U) [C][!].gbc",
+      "label": "Diva Starz - Mall Mania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EBE0ECD6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dinosaur'us (U) (M6) [C][!].gbc",
+      "label": "Dinosaur'us (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F4609FE3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dinosaur (U) [C][!].gbc",
+      "label": "Dinosaur (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "276ECAAE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dexter's Laboratory - Robot Rampage (U) [C][!].gbc",
+      "label": "Dexter's Laboratory - Robot Rampage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D24D6601|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Deja Vu I & II (U) [C][!].gbc",
+      "label": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD0937F4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Deer Hunter (U) [C][!].gbc",
+      "label": "Deer Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40A715FB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Dave Mirra Freestyle BMX (UE) [C][!].gbc",
+      "label": "Dave Mirra Freestyle BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DF6E230|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Conker's Pocket Tales (UE) (M3) [C][!].gbc",
+      "label": "Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A50BE9A8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Commander Keen (U) [C][!].gbc",
+      "label": "Commander Keen (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4AF4CC9C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Chicken Run (U) (M5) [C][!].gbc",
+      "label": "Chicken Run (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8BD2A01|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Chessmaster, The (U) [C][!].gbc",
+      "label": "Chessmaster (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1C13DBB0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Chase H.Q. - Secret Police (U) (Metro 3D re-release) [C][!].gbc",
+      "label": "Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C7FDEFC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Championship Motocross 2001 featuring Ricky Carmichael (U) [C][!].gbc",
+      "label": "Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CBB336ED|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Centipede (U) [C][!].gbc",
+      "label": "Centipede (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "13AD07B1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Catz - Your Virtual Petz Palz (U) [C][!].gbc",
+      "label": "Catz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "769A2C5A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Catwoman (U) [C][!].gbc",
+      "label": "Catwoman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12F0C196|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Caterpillar Construction Zone (U) [C][!].gbc",
+      "label": "Caterpillar Construction Zone (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D20DC670|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Carmageddon (UE) (M4) [C][!].gbc",
+      "label": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB482ED7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Carl Lewis Athletics 2000 (U) (M6) [C][!].gbc",
+      "label": "Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA8D6283|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Cannon Fodder (U) (M5) [C][!].gbc",
+      "label": "Cannon Fodder (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26F8E1A0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Caesars Palace II (U) [C][!].gbc",
+      "label": "Caesars Palace II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "351BA5EA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Buzz Lightyear of Star Command (U) [C][!].gbc",
+      "label": "Buzz Lightyear of Star Command (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84E29B87|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bust-A-Move Millennium (U) [C][!].gbc",
+      "label": "Bust-A-Move Millennium (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8DA0C4A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bugs Bunny - Crazy Castle 4 (U) [C][!].gbc",
+      "label": "Bugs Bunny in - Crazy Castle 4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98DBFFE0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bugs Bunny - Crazy Castle 3 (U) [C][!].gbc",
+      "label": "Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A2801FB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bugs Bunny & Lola Bunny - Carrot Crazy (U) (M3) [C][!].gbc",
+      "label": "Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11FB5617|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bug's Life, A (U) [C][!].gbc",
+      "label": "Bug's Life, A (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8360047A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Buffy the Vampire Slayer (U) [C][!].gbc",
+      "label": "Buffy the Vampire Slayer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5692E262|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bubble Bobble (U) [C][!].gbc",
+      "label": "Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1B22246|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bomberman Max - Red Challenger (U) [C][!].gbc",
+      "label": "Bomberman Max - Red Challenger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4853F586|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bomberman Max - Blue Champion (U) [C][!].gbc",
+      "label": "Bomberman Max - Blue Champion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CCB66CF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bob the Builder - Fix It Fun! (U) [C][!].gbc",
+      "label": "Bob the Builder - Fix it Fun! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93FA37BD|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Boarder Zone (U) [C][!].gbc",
+      "label": "Boarder Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A7152869|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Blue's Clues - Blue's Alphabet Book (U) [C][!].gbc",
+      "label": "Blue's Clues - Blue's Alphabet Book (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "748D1345|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Blaster Master - Enemy Below (U) [C][!].gbc",
+      "label": "Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F91E17C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Black Bass - Lure Fishing (U) [C][!].gbc",
+      "label": "Black Bass - Lure Fishing (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E44977DC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bionic Commando - Elite Forces (U) [C][!].gbc",
+      "label": "Bionic Commando - Elite Forces (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A663CF31|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Billy Bob's Huntin' 'n' Fishin' (U) [C][!].gbc",
+      "label": "Billy Bob's Huntin' 'n' Fishin' (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA1E6853|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Beauty and the Beast - A Board Game Adventure (U) [C][!].gbc",
+      "label": "Beauty and the Beast - A Board Game Adventure (USA, Australia) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6DE1D581|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bear in the Big Blue House (U) (M7) [C][!].gbc",
+      "label": "Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "851C8710|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Battleship (U) [C][!].gbc",
+      "label": "Battleship (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E6F8037|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Battle Tanx (U) [C][!].gbc",
+      "label": "BattleTanx (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4431F8E7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Batman Beyond - Return of the Joker (U) [C][!].gbc",
+      "label": "Batman Beyond - Return of the Joker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B32F4586|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bass Masters Classic (U) [C][!].gbc",
+      "label": "Bass Masters Classic (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B70028E4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Barbie - Pet Rescue (U) [C][!].gbc",
+      "label": "Barbie - Pet Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1FC972CC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Barbie - Ocean Discovery (U) [C][!].gbc",
+      "label": "Barbie - Ocean Discovery (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "746936C6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Barbie - Magic Genie Adventure (U) [C][!].gbc",
+      "label": "Barbie - Magic Genie Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57F1A202|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Barbie - Fashion Pack Games (U) [C][!].gbc",
+      "label": "Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09EE93A8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Ballistic (U) [C][!].gbc",
+      "label": "Ballistic (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9050F72|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Babe and Friends (U) [C][!].gbc",
+      "label": "Babe and Friends (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E25407F1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Azure Dreams (U) [C][!].gbc",
+      "label": "Azure Dreams (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71D52876|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Austin Powers - Welcome to My Underground Lair! (U) [C][!].gbc",
+      "label": "Austin Powers - Welcome to my Underground Lair! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABA42B78|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Austin Powers - Oh, Behave! (U) [C][!].gbc",
+      "label": "Austin Powers - Oh, Behave! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB89190E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ATV Racing (Unl) [C][!].gbc",
+      "label": "ATV Racing (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7987D5CD|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/ATV Racing & Karate Joe (Unl) [C][!].gbc",
+      "label": "ATV Racing & Karate Joe (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A07B6E79|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Asteroids (U) [C][!].gbc",
+      "label": "Asteroids (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89D5D936|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Arthur's Absolutely Fun Day! (U) [C][!].gbc",
+      "label": "Arthur's Absolutely Fun Day! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F03599A3|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Army Men 2 (U) (M3) [C][!].gbc",
+      "label": "Army Men 2 (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2272BACA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Army Men - Sarge's Heroes 2 (U) (M3) [C][!].gbc",
+      "label": "Army Men - Sarge's Heroes 2 (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71B857EA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Army Men - Air Combat (U) (M3) [C][!].gbc",
+      "label": "Army Men - Air Combat (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0D1DE8C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Army Men (U) (M3) [C][!].gbc",
+      "label": "Army Men (USA, Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34411753|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Armada - FX Racers (U) [C][!].gbc",
+      "label": "Armada - FX Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D952CBAB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Antz Racing (U) (M6) [C][!].gbc",
+      "label": "Antz Racing (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFDF90C0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Antz (U) (M3) [C][!].gbc",
+      "label": "Antz (USA) (En,Fr,Es) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC0BE439|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Animorphs (U) [C][!].gbc",
+      "label": "Animorphs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4F293CC|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Alone in the Dark - The New Nightmare (U) (M3) [C][!].gbc",
+      "label": "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C145C036|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/All-Star Baseball 2001 (U) [C][!].gbc",
+      "label": "All-Star Baseball 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC562466|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/All Star Tennis 2000 (U) [C][!].gbc",
+      "label": "All Star Tennis 2000 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "952B94E5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Aliens - Thanatos Encounter (U) [C][!].gbc",
+      "label": "Aliens - Thanatos Encounter (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BEC3C24B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Alice in Wonderland (U) [C][!].gbc",
+      "label": "Alice in Wonderland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3199F65F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Aladdin (U) [C][!].gbc",
+      "label": "Aladdin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A91EC059|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/AirForce Delta (U) [C][!].gbc",
+      "label": "AirForce Delta (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF31CC92|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Action Man - Search for Base X (U) [C][!].gbc",
+      "label": "Action Man - Search for Base X (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1226499E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/720 Degrees (U) [C][!].gbc",
+      "label": "720 Degrees (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E633841F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Super Breakout! (U) [C][!].gbc",
+      "label": "Super Breakout! (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52F51CB5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Stuart Little - The Journey Home (U) [C][!].gbc",
+      "label": "Stuart Little - The Journey Home (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB273887|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Street Fighter Alpha - Warriors' Dreams (U) [C][!].gbc",
+      "label": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA5F14D2|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Star Wars Episode I - Racer (UE) [C][!].gbc",
+      "label": "Star Wars Episode I - Racer (USA, Europe) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0EBC5758|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Star Wars Episode I - Obi-Wan's Adventures (U) [C][!].gbc",
+      "label": "Star Wars Episode I - Obi-Wan's Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0E697582|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Spy vs. Spy (U) [C][!].gbc",
+      "label": "Spy vs Spy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0463D51|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Polaris SnoCross (U) [C][!].gbc",
+      "label": "Polaris SnoCross (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD8B189E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon Trading Card Game (U) [C][!].gbc",
+      "label": "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81069D53|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon Puzzle Challenge (U) [C][!].gbc",
+      "label": "Pokemon Puzzle Challenge (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D06BBA96|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Pokemon Pinball (U) [C][!].gbc",
+      "label": "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "03CE8D9A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mickey's Racing Adventure (U) (M5) [C][!].gbc",
+      "label": "Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5E845F4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Mia Hamm Soccer Shootout (U) [C][!].gbc",
+      "label": "Mia Hamm Soccer Shootout (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D77971C0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Metal Walker (U) [C][!].gbc",
+      "label": "Metal Walker (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BE68391|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Disney's Tarzan (U) [C][!].gbc",
+      "label": "Tarzan (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4224F930|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Casper (U) [C][!].gbc",
+      "label": "Casper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C775D653|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bust-A-Move 4 (UE) [C][!].gbc",
+      "label": "Bust-A-Move 4 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E818E6F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Bomberman Quest (U) [C][!].gbc",
+      "label": "Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A089C656|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Blade (U) [C][!].gbc",
+      "label": "Blade (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DD5907F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Atlantis - The Lost Empire (U) [C][!].gbc",
+      "label": "Atlantis - The Lost Empire (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D594D24B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/All-Star Baseball 2000 (U) [C][!].gbc",
+      "label": "All-Star Baseball 2000 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E17F59A5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Las Vegas Cool Hand (U) [C][!].gbc",
+      "label": "Las Vegas Cool Hand (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BEF1CDE4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Land Before Time, The (U) [C][!].gbc",
+      "label": "Land Before Time, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BCE9CB16|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Knockout Kings (UE) [C][!].gbc",
+      "label": "Knockout Kings (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0D64934|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Klustar (U) [C][!].gbc",
+      "label": "Klustar (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F8D6041|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Klax (U) [C][!].gbc",
+      "label": "Klax (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7181CBD0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Kirby's Tilt 'n' Tumble (U) [C][!].gbc",
+      "label": "Kirby - Tilt 'n' Tumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E541ACF1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Game & Watch Gallery 3 (UE) [C][!].gbc",
+      "label": "Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AC625DA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Game & Watch Gallery 2 (UE) [C][!].gbc",
+      "label": "Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "969C8961|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Galaga - Destination Earth (U) [C][!].gbc",
+      "label": "Galaga - Destination Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3C4ABC6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Daffy Duck - Fowl Play (U) [C][!].gbc",
+      "label": "Daffy Duck - Fowl Play (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45EBF09C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Cyber Tiger (U) [C][!].gbc",
+      "label": "CyberTiger (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E470CAFA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Cubix - Robots For Everyone - Race 'N Robots (U) (M5) [C][!].gbc",
+      "label": "Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F883B0F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Crystalis (U) [C][!].gbc",
+      "label": "Crystalis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "909BB02D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Cruis'n Exotica (U) [C][!].gbc",
+      "label": "Cruis'n Exotica (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9562E7E8|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Croc 2 (U) [C].gbc",
+      "label": "Croc 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1D60129|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/Croc (UE) [C][!].gbc",
+      "label": "Croc (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4664A167|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/3D Pocket Pool (E) (M6) [C][!].gbc",
+      "label": "3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8CDAB77F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/3-D Ultra Pinball - Thrillride (U) [C][!].gbc",
+      "label": "3-D Ultra Pinball - Thrillride (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1766E558|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/1942 (U) [C][!].gbc",
+      "label": "1942 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87431672|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/102 Dalmatians - Puppies to the Rescue (U) [C][!].gbc",
+      "label": "102 Dalmatians - Puppies to the Rescue (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56B83539|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/10-Pin Bowling (U) [C][!].gbc",
+      "label": "10-Pin Bowling (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "720C7023|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Nintendo GBC-GBA/007 - The World is Not Enough (U) [C][!].gbc",
+      "label": "007 - The World Is Not Enough (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E038E666|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy Anthology - Final Fantasy (6) VI.img",
+      "label": "Final Fantasy Anthology - Final Fantasy VI (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1478196F|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Twisted Metal Small Brawl.bin",
+      "label": "Twisted Metal - Small Brawl (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D463966E|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Parasite Eve 2 CD1.img",
+      "label": "Parasite Eve II (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D6A9CBB|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Parasite Eve 1 D2.bin",
+      "label": "Parasite Eve (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "226EE2EE|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Parasite Eve 1 D1.bin",
+      "label": "Parasite Eve (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "488641E0|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/GRANTURISMO2_SIMULATION.bin",
+      "label": "Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0C88C87|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/GRANTURISMO2_ARCADE.bin",
+      "label": "Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B444F497|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy VIII - CD4.bin",
+      "label": "Final Fantasy VIII (USA) (Disc 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6CFB6ADF|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy VIII - CD2.bin",
+      "label": "Final Fantasy VIII (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3EB68DF|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy VIII - CD1.bin",
+      "label": "Final Fantasy VIII (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2691D2DE|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy VII - CD3.bin",
+      "label": "Final Fantasy VII (USA) (Disc 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1C27B277|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy Tactics.bin",
+      "label": "Final Fantasy Tactics (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "377F6510|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy IX - CD4.bin",
+      "label": "Final Fantasy IX (USA) (Disc 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15A5E12B|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy IX - CD3.bin",
+      "label": "Final Fantasy IX (USA) (Disc 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDC64CAC|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy IX - CD2.bin",
+      "label": "Final Fantasy IX (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFEF08C8|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy IX - CD1.bin",
+      "label": "Final Fantasy IX (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "49521342|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy Chronicles - Final Fantasy (4) IV.img",
+      "label": "Final Fantasy Chronicles - Final Fantasy IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6148FDB4|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy Chronicles - Chrono Trigger.img",
+      "label": "Final Fantasy Chronicles - Chrono Trigger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4CA66585|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy (6) VI.img",
+      "label": "Final Fantasy VI (Europe, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0C6D63F|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy (5) V.bin",
+      "label": "Final Fantasy Anthology - European Edition - Final Fantasy V (Europe, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D571C30|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Final Fantasy (4) IV.img",
+      "label": "Final Fantasy Chronicles - Final Fantasy IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6148FDB4|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/LEGEND OF DRAGOON DISC 4.iso",
+      "label": "Legend of Dragoon, The (USA) (Disc 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7430EAED|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/LEGEND OF DRAGOON DISC 3.iso",
+      "label": "Legend of Dragoon, The (USA) (Disc 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "405DA729|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/LEGEND OF DRAGOON DISC 2.iso",
+      "label": "Legend of Dragoon, The (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8139792A|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/LEGEND OF DRAGOON DISC 1.iso",
+      "label": "Legend of Dragoon, The (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24CB8F5C|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/LEGEND OF DRAGOON DISC 1 - deDitheringPatch.iso",
+      "label": "Legend of Dragoon, The (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24CB8F5C|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/SLUS-01002.cue",
+      "label": "Duke Nukem - Land of the Babes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47A7AB61|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Metal Slug X [SLPM-86456][NTSC-J][PS1].cue",
+      "label": "Metal Slug X - Super Vehicle-001 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D9669E4|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSX/Digimon World 3.cue",
+      "label": "Digimon World 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3D73A16|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}

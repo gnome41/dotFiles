@@ -1,0 +1,10 @@
+[
+	{
+        "caption": "Terminus: Open Default Shell at Current Location",
+        "command": "terminus_open",
+        "args"   : {
+        	"cmd": ["tmux"],
+            "cwd": "${file_path:${folder}}"
+        }
+    }
+]

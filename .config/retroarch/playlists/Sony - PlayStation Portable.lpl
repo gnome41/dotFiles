@@ -1,0 +1,19 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/pete/Emulation-NTFS/Games/ROMS/Sony PSP/Final_fantasy_vii_crisis_core_usa_psp-eminent/em-ff7cc.iso",
+      "label": "Crisis Core - Final Fantasy VII (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C7E2442|crc",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    }
+  ]
+}
