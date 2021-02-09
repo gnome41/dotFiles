@@ -98,3 +98,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #wal -i "/home/pete/Pictures/225202833-dual-1440p-wallpaper-WITHOUTLOGO.jpg"
+bindkey  "^[[1~"   beginning-of-line
+bindkey  "^[[4~"   end-of-line
